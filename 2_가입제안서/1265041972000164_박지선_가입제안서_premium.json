@@ -1,0 +1,623 @@
+{
+  "source": "1265041972000164_박지선_가입제안서.pdf",
+  "document_type": "가입제안서",
+  "contract_summary": {
+    "insurer": "삼성화재해상보험(주)",
+    "product_name": "무배당 삼성화재 건강보험 New내돈내삼1640(2603.8)(납입면제,해약환급금미지급형Ⅱ)",
+    "product_case": "무배당 삼성화재 건강보험 New내돈내삼1640(2603.8)(납입면제,해약환급금미지급형Ⅱ)",
+    "job": "회사 사무직 종사자",
+    "gender": "여",
+    "age": 31,
+    "age_raw": "31세",
+    "payment_cycle": "월납",
+    "medical_aid": null,
+    "total_premium": 129507,
+    "total_premium_raw": "129,507원",
+    "renewal": null,
+    "maturity": "100세만기",
+    "payment_period": "30년납"
+  },
+  "coverages": [
+    {
+      "coverage_name": "[건강]상해 사망",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 100000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1억원"
+      },
+      "premium": 1700,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]보험료 납입면제대상(3대질병진단)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 100000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "10만원"
+      },
+      "premium": 116,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]보험료 납입면제대상(특정상해진단수술)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 100000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "10만원"
+      },
+      "premium": 6,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]유사암진단 납입지원",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 63000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "6만3천원"
+      },
+      "premium": 3238,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]암 진단비(유사암 제외)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 50000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "5,000만원"
+      },
+      "premium": 31550,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]유사암 진단비(기타피부암)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": null,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": null
+    },
+    {
+      "coverage_name": "[건강]유사암 진단비(갑상선암)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": null,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": null
+    },
+    {
+      "coverage_name": "[건강]유사암 진단비(대장점막내암)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 4700,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]유사암 진단비(제자리암)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": null,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": null
+    },
+    {
+      "coverage_name": "[건강]유사암 진단비(경계성종양)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": null,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": null
+    },
+    {
+      "coverage_name": "[건강]종합병원 암 전액본인부담(비급여포함) 통합치료비(표준형,연간1억원한도)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 100000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1억원"
+      },
+      "premium": 6558,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]종합병원 암(유사암Ⅱ 제외) 특정치료비Ⅱ",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 20000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2,000만원"
+      },
+      "premium": 23840,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]종합병원 유사암Ⅱ 특정치료비Ⅱ",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 6000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "600만원"
+      },
+      "premium": 2208,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]종합병원 암(기타피부암 및 갑상선암 포함) 전액본인부담(비급여포함) 특정치료비Ⅱ",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 2130,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]종합병원 전이암(특정뇌및림프절암제외) 특정치료비Ⅱ",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 15000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,500만원"
+      },
+      "premium": 7305,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]종합병원 암(유사암Ⅱ 제외) 복합치료(연간2회이상) 회복지원금(연간1회한)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 2100,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]종합병원 암(유사암Ⅱ 제외) 복합치료(연간3회이상) 회복지원금(연간1회한)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 5000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "500만원"
+      },
+      "premium": 745,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]종합병원 유사암Ⅱ 복합치료(연간2회이상) 회복지원금(연간1회한)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 2000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "200만원"
+      },
+      "premium": 160,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]종합병원 유사암Ⅱ 복합치료(연간3회이상) 회복지원금(연간1회한)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 1000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "100만원"
+      },
+      "premium": 50,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]항암방사선·약물 치료비Ⅲ(기타피부암 및 갑상선암)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 1000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "100만원"
+      },
+      "premium": 48,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]항암방사선·약물 치료비Ⅲ(암(기타피부암 및 갑상선암 제외))",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 1000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "100만원"
+      },
+      "premium": 501,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]항암 중입자방사선 치료비",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 50000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "5,000만원"
+      },
+      "premium": 900,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[갱신형] [건강]표적항암약물허가 치료비",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 100000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1억원"
+      },
+      "premium": 4800,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "10년갱신"
+    },
+    {
+      "coverage_name": "[건강]뇌혈관질환 진단비",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 20000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2,000만원"
+      },
+      "premium": 9280,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]허혈성심장질환 진단비",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 30000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "3,000만원"
+      },
+      "premium": 4890,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]종합병원 특정순환계질환 특정치료비Ⅲ(수술,혈전용해,혈전제거)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 3940,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]종합병원 특정순환계질환 특정치료비Ⅲ(중환자실)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 3000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "300만원"
+      },
+      "premium": 834,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]종합병원 특정순환계질환 복합치료(연간2회이상) 회복지원금(연간1회한)(1년감액)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 430,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]종합병원 특정순환계질환 복합치료(연간3회이상) 회복지원금(연간1회한)(1년감액)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 5000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "500만원"
+      },
+      "premium": 25,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]기타 심장부정맥 진단비",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 8070,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]특정 외상성 뇌손상 진단비",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 2000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "200만원"
+      },
+      "premium": 484,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]특정 외상성 뇌출혈 진단비",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 1830,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]특정 외상성 장기손상 진단비",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 1000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "100만원"
+      },
+      "premium": 41,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]골절 진단비(치아 파절(깨짐, 부러짐) 제외)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 400000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "40만원"
+      },
+      "premium": 2472,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]골절 진단비",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 100000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "10만원"
+      },
+      "premium": 900,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]5대골절 진단비",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 2000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "200만원"
+      },
+      "premium": 2280,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]깁스치료비(부목치료 제외)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 200000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "20만원"
+      },
+      "premium": 182,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]중대 화상·부식 진단비",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 17,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]조혈모세포이식 수술비",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 57,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[건강]뇌·내장손상 수술비",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 20000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2,000만원"
+      },
+      "premium": 1120,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    }
+  ],
+  "error": null
+}

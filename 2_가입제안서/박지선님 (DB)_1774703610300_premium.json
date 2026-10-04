@@ -1,0 +1,518 @@
+{
+  "source": "박지선님 (DB)_1774703610300.pdf",
+  "document_type": "가입제안서",
+  "contract_summary": {
+    "insurer": "DB손해보험",
+    "product_name": "무배당 프로미라이프 나에게 맞춘 더좋은 초경증 간편건강보험2602",
+    "product_case": "무배당 프로미라이프 나에게 맞춘 더좋은 초경증 간편건강보험2602",
+    "job": "회사 사무직 종사자",
+    "gender": "여",
+    "age": null,
+    "age_raw": null,
+    "payment_cycle": "월납",
+    "medical_aid": null,
+    "total_premium": 58139,
+    "total_premium_raw": "58,139원",
+    "renewal": null,
+    "maturity": "90세만기",
+    "payment_period": "20년납"
+  },
+  "coverages": [
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)상해사망",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 1000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1백만원"
+      },
+      "premium": 33,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)보험료납입면제대상보장(5대사유)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 100000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "10만원"
+      },
+      "premium": 50,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)보험료납입지원보장Ⅱ(유사암진단)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": null,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": null
+      },
+      "premium": 1581,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)상해수술비(동일사고당1회지급)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 1000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1백만원"
+      },
+      "premium": 3540,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)상해1-5종수술비Ⅱ(1종)(동일사고당1회지급)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 200000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "20만원"
+      },
+      "premium": 354,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)상해1-5종수술비Ⅱ(2종)(동일사고당1회지급)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 500000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "50만원"
+      },
+      "premium": 445,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)상해1-5종수술비Ⅱ(3종)(동일사고당1회지급)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 1000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1백만원"
+      },
+      "premium": 430,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)상해1-5종수술비Ⅱ(4종)(동일사고당1회지급)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 2000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2백만원"
+      },
+      "premium": 820,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)상해1-5종수술비Ⅱ(5종)(동일사고당1회지급)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1천만원"
+      },
+      "premium": 50,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)골절진단비(치아포함)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 300000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "30만원"
+      },
+      "premium": 3072,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)골절수술비(동일사고당1회지급)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 100000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "10만원"
+      },
+      "premium": 161,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)깁스치료비(상해,질병)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 300000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "30만원"
+      },
+      "premium": 414,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)창상봉합술치료비(1일1회한,연간3회한)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 500000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "50만원"
+      },
+      "premium": 475,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)상해흉터복원수술비Ⅱ",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 150000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "15만원"
+      },
+      "premium": 489,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)항암양성자방사선치료비(최초1회한)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 20000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2천만원"
+      },
+      "premium": 1200,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)표적항암방사선치료비(항암세기조절방사선)(최초1회한)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1천만원"
+      },
+      "premium": 1590,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)갑상선암호르몬약물허가치료비Ⅱ(최초1회한)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 1000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1백만원"
+      },
+      "premium": 250,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)특정항암호르몬약물허가치료비Ⅱ(유사암제외)(연간1회한)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 3000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "3백만원"
+      },
+      "premium": 1260,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)항암방사선약물치료비Ⅱ(유사암포함)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 1000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1백만원"
+      },
+      "premium": 629,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)혈전용해치료비Ⅳ(연간1회한)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 20000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2천만원"
+      },
+      "premium": 4040,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)질병수술비(동일질병당1회지급)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 100000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "10만원"
+      },
+      "premium": 2526,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)119대질병수술비Ⅳ(20대질병)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1천만원"
+      },
+      "premium": 4700,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)119대질병수술비Ⅳ(22대질병)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 200000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "20만원"
+      },
+      "premium": 558,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)119대질병수술비Ⅳ(5대질병)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 5000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "5백만원"
+      },
+      "premium": 350,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)119대질병수술비Ⅳ(68대생활질환)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 1000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1백만원"
+      },
+      "premium": 7110,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)119대질병수술비Ⅳ(특정다빈도4대질병)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 200000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "20만원"
+      },
+      "premium": 1058,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)질병1-5종수술비Ⅲ(1종)(동일질병당1회지급)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 200000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "20만원"
+      },
+      "premium": 3754,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)질병1-5종수술비Ⅲ(2종)(동일질병당1회지급)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 300000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "30만원"
+      },
+      "premium": 3231,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)질병1-5종수술비Ⅲ(3종)(동일질병당1회지급)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 3000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "3백만원"
+      },
+      "premium": 4020,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)질병1-5종수술비Ⅲ(4종)(동일질병당1회지급)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1천만원"
+      },
+      "premium": 800,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)질병1-5종수술비Ⅲ(5종)(동일질병당1회지급)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1천만원"
+      },
+      "premium": 9000,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)각막이식수술비Ⅱ(최초1회한)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1천만원"
+      },
+      "premium": 9,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "(맞춤_간편고지Ⅱ)추간판탈출증수술비Ⅱ",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 300000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "30만원"
+      },
+      "premium": 140,
+      "is_enrolled": true,
+      "coverage_category": "맞춤_간편고지Ⅱ",
+      "payment_period": "20년납"
+    }
+  ],
+  "error": null
+}

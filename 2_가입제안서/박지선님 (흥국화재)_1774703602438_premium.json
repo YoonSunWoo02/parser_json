@@ -1,0 +1,854 @@
+{
+  "source": "박지선님 (흥국화재)_1774703602438.pdf",
+  "document_type": "가입제안서",
+  "contract_summary": {
+    "insurer": "흥국화재해상보험(주)",
+    "product_name": "무배당 흥Good The건강한 0550 종합보험(26.03)_(2종)(납입후 해약환급금지급형의 50%지급형)",
+    "product_case": "무배당 흥Good The건강한 0550 종합보험(26.03)_(2종)(납입후 해약환급금지급형의 50%지급형)",
+    "job": "상관없음",
+    "gender": "여",
+    "age": 31,
+    "age_raw": "31세",
+    "payment_cycle": "월납",
+    "medical_aid": null,
+    "total_premium": 115151,
+    "total_premium_raw": "115,151원",
+    "renewal": null,
+    "maturity": "90세만기",
+    "payment_period": "20년납"
+  },
+  "coverages": [
+    {
+      "coverage_name": "기본 일반상해후유장해(80%이상)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 50000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "5,000만원"
+      },
+      "premium": 250,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "보험료납입면제대상(4대진단,순환계(특정,2대제외)주요치료,갑상선암수술,상해질병 기본)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 100000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "10만원"
+      },
+      "premium": 51,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 일반상해사망(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 50000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "5,000만원"
+      },
+      "premium": 850,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 골절진단비(치아파절포함, 연간1회한)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 200000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "20만원"
+      },
+      "premium": 1376,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 5대골절진단비(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 500000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "50만원"
+      },
+      "premium": 420,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 뇌혈관질환진단비(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 20000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2,000만원"
+      },
+      "premium": 11720,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 허혈성심질환진단비(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 20000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2,000만원"
+      },
+      "premium": 3960,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 심근병증(허혈성제외)진단비(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 750,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 양성뇌종양진단비(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 230,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 크론병 및 궤양성대장염진단비(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 5000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "500만원"
+      },
+      "premium": 100,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 특정심혈관질환(기타심장부정맥)진단비(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 1700,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 특정심혈관질환(기타심장부정맥제외)진단비(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 3680,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 중대한화상및부식치료비(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 17,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "[갱신형]독감(인플루엔자) 항바이러스제치료비(연간1회한,10일면책)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 200000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "20만원"
+      },
+      "premium": 1082,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "10년갱신"
+    },
+    {
+      "coverage_name": "선택 뇌졸중 혈전용해치료비(1회한)(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 20000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2,000만원"
+      },
+      "premium": 670,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 특정허혈성심질환 혈전용해치료비(1회한)(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 20000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2,000만원"
+      },
+      "premium": 70,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 순환계질환(특정질병제외) 주요치료비_수술비(혈전제거제외)(연간1회한)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 1240,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 순환계질환(특정질병제외) 주요치료비_혈전제거치료비(연간1회한)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 330,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 순환계질환(특정질병제외) 주요치료비_혈전용해치료비(연간1회한)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 1000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "100만원"
+      },
+      "premium": 239,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 순환계질환(특정질병제외) 주요치료비_중환자실치료비(종합병원)(연간1회한)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 1700,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 암진단비(유사암제외)(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 50000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "5,000만원"
+      },
+      "premium": 32350,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 유사암진단비(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 4520,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 항암약물치료비(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 3280,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 항암방사선치료비(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 2190,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 항암중입자방사선치료비(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 50000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "5,000만원"
+      },
+      "premium": 1000,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "[갱신형]항암호르몬약물허가치료비(기타피부암 및 갑상선암이외의 암)Ⅱ(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 2000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "200만원"
+      },
+      "premium": 14,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "10년갱신"
+    },
+    {
+      "coverage_name": "[갱신형]항암세기조절방사선치료비Ⅱ(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 270,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "10년갱신"
+    },
+    {
+      "coverage_name": "[갱신형]항암양성자방사선치료비Ⅱ(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 60,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "10년갱신"
+    },
+    {
+      "coverage_name": "[갱신형]항암정위방사선치료비Ⅱ(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 3000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "300만원"
+      },
+      "premium": 41,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "10년갱신"
+    },
+    {
+      "coverage_name": "[갱신형]항암세기조절방사선치료비(토모테라피)Ⅱ(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 2000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "200만원"
+      },
+      "premium": 20,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "10년갱신"
+    },
+    {
+      "coverage_name": "[갱신형]특정면역항암약물허가치료비(연간1회한)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 260,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "10년갱신"
+    },
+    {
+      "coverage_name": "[갱신형]카티(CAR-T) 항암약물허가치료비(연간1회한)(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 60,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "10년갱신"
+    },
+    {
+      "coverage_name": "[갱신형]갑상선암호르몬약물허가치료비Ⅱ(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 1000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "100만원"
+      },
+      "premium": 136,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "10년갱신"
+    },
+    {
+      "coverage_name": "[갱신형]표적항암약물허가치료비Ⅱ(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 70000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "7,000만원"
+      },
+      "premium": 2800,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "10년갱신"
+    },
+    {
+      "coverage_name": "선택 암주요치료비Ⅱ(유사암)(치료별 연간1회한)(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 5000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "500만원"
+      },
+      "premium": 2500,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 암주요치료비Ⅱ(유사암제외)_암수술비(연간1회한)(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 5000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "500만원"
+      },
+      "premium": 3700,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 암주요치료비Ⅱ(유사암제외)_항암방사선치료비(연간1회한)(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 3420,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "암주요치료비Ⅱ(유사암제외)_항암약물치료비(호르몬치료제외)(연간1회한)(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 4940,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "암주요치료비Ⅱ(유사암제외)_항암호르몬약물치료비(연간1회한)(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 3000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "300만원"
+      },
+      "premium": 204,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "암주요치료비Ⅱ(유사암제외)_암중환자실치료비(종합병원)(연간1회한)(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 5000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "500만원"
+      },
+      "premium": 330,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 비급여 암주요치료비(전액본인부담포함,연간1회한)(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 30000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "3,000만원"
+      },
+      "premium": 11370,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 비급여 항암약물치료비(전액본인부담포함,연간1회한,진단후10년)(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 20000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2,000만원"
+      },
+      "premium": 3440,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "[갱신형]다빈치및레보아이로봇 암수술비(갑상선암 및 전립선암)(최초1회한)(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 1475,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "10년갱신"
+    },
+    {
+      "coverage_name": "[갱신형]다빈치및레보아이로봇 암수술비(갑상선암 및 전립선암 제외)(최초1회한)(감액없음)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 400,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "10년갱신"
+    },
+    {
+      "coverage_name": "선택 간호·간병통합서비스사용 일반상해입원비(1일-180일)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": 70000,
+        "annual_limit": null,
+        "deductible": null,
+        "visit_limit": {
+          "value": 180,
+          "unit": "일"
+        },
+        "is_shared_limit": false,
+        "raw": "7만원"
+      },
+      "premium": 1064,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 간호·간병통합서비스사용 질병입원비(1일-180일)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": 70000,
+        "annual_limit": null,
+        "deductible": null,
+        "visit_limit": {
+          "value": 180,
+          "unit": "일"
+        },
+        "is_shared_limit": false,
+        "raw": "7만원"
+      },
+      "premium": 2849,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 골절철심제거수술비(급여_연간1회한)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 500000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "50만원"
+      },
+      "premium": 215,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 아킬레스힘줄손상수술비(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 400000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "40만원"
+      },
+      "premium": 2,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 무릎인대파열 및 연골손상수술비(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 300000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "30만원"
+      },
+      "premium": 21,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 관절(무릎,고관절)손상수술비(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 300000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "30만원"
+      },
+      "premium": 51,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "[갱신형]다빈치로봇 특정수술비(연간1회한)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 2000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "200만원"
+      },
+      "premium": 3,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "10년갱신"
+    },
+    {
+      "coverage_name": "선택 조혈모세포이식수술비(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 60,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 5대장기이식수술비(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 46,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 각막이식수술비(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 6,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "선택 보험료납입지원보장(유사암진단)(건강고지형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 53455,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "5만3,455원"
+      },
+      "premium": 1619,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    }
+  ],
+  "error": null
+}

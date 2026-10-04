@@ -1,0 +1,383 @@
+{
+  "source": "박지선님 농협손보 건강할때굿플러스건강보험 수정.pdf",
+  "document_type": "가입제안서",
+  "contract_summary": {
+    "insurer": "NH농협손해보험",
+    "product_name": "건강할때굿플러스건강보험",
+    "product_case": "건강할때굿플러스건강보험",
+    "job": "회사 사무직 종사자",
+    "gender": "여",
+    "age": 31,
+    "age_raw": "31세",
+    "payment_cycle": "월납",
+    "medical_aid": null,
+    "total_premium": 89706,
+    "total_premium_raw": "89,706원",
+    "renewal": null,
+    "maturity": "100세만기",
+    "payment_period": "20년납"
+  },
+  "coverages": [
+    {
+      "coverage_name": "기본계약(일반상해후유장해(80%이상)(건강고지))",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 30,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "기본계약(일반상해후유장해(80%미만)(건강고지))",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 248,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "보험료납입면제대상Ⅴ(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 100000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "10만원"
+      },
+      "premium": 36,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "보험료납입지원(유사암진단)(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 40000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "4만원"
+      },
+      "premium": 749,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "일반상해사망(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 50000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "5,000만원"
+      },
+      "premium": 1150,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "암진단비(유사암제외)(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 50000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "5,000만원"
+      },
+      "premium": 27400,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "유사암진단비(연간1회한)(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 6300,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "암주요치료비Ⅱ(유사암제외)(암수술)(종합병원,연간1회한)(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 7145,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "암주요치료비Ⅱ(유사암제외)(항암방사선치료)(종합병원,연간1회한)(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 1819,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "암주요치료비Ⅱ(유사암제외)(항암약물치료(항암호르몬치료제외))(종합병원,연간1회한)(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 4259,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "암주요치료비Ⅱ(유사암제외)(항암호르몬약물치료)(종합병원,연간1회한)(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 3000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "300만원"
+      },
+      "premium": 520,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "암주요치료비Ⅱ(유사암제외)(중환자실입원)(종합병원,연간1회한)(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 542,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "유사암주요치료비Ⅱ(종합병원,치료별연간1회한)(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 3000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "300만원"
+      },
+      "premium": 852,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "하이클래스암주요치료비(종합병원,연간1회한)(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 1914,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "하이클래스항암약물치료비(종합병원,연간1회한)(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 1517,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "항암방사선(중입자)치료비(최초1회한)(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 50000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "5,000만원"
+      },
+      "premium": 660,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "뇌혈관질환진단비(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 30000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "3,000만원"
+      },
+      "premium": 16140,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "허혈성심장질환진단비(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 20000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2,000만원"
+      },
+      "premium": 3320,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "심혈관특정질환Ⅰ진단비(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 2920,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "심근병증진단비(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 2020,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "특정순환계질환(3~5종)주요치료비(연간1회한)(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 4990,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "뇌혈관질환수술비(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 2040,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "허혈성심장질환수술비(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 2380,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "주요심장염증질환진단비(건강고지)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 5000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "500만원"
+      },
+      "premium": 755,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    }
+  ],
+  "error": null
+}

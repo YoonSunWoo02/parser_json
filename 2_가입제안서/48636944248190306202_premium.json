@@ -1,0 +1,539 @@
+{
+  "source": "48636944248190306202.pdf",
+  "document_type": "가입제안서",
+  "contract_summary": {
+    "insurer": "삼성",
+    "product_name": "The퍼스트건강보험",
+    "product_case": "The퍼스트건강보험",
+    "job": "상관없음",
+    "gender": "여",
+    "age": 31,
+    "age_raw": "31세",
+    "payment_cycle": "월납",
+    "medical_aid": null,
+    "total_premium": 171492,
+    "total_premium_raw": "171,492원",
+    "renewal": null,
+    "maturity": "종신",
+    "payment_period": "20년납"
+  },
+  "coverages": [
+    {
+      "coverage_name": "주보험[ 1종1형(건강고지형10년) ]",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 1000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "100만원"
+      },
+      "premium": 1040,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "암진단특약ⅥAT(무배당,무해약환급금형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 50000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "5,000만원"
+      },
+      "premium": 31800,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "소액질병보장특약ⅧAT(무배당)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 7500,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "소액질병진단보험료납입지원특약A(무배당)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 100000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "100,000원"
+      },
+      "premium": 2505,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "암통합치료(종합병원이상)특약AT(무배당,무해약환급금형)_연간1억원한도",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 100000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "10,000만원"
+      },
+      "premium": 26805,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "전액본인부담(비급여포함)암통합치료(종합병원이상)특약AT(무배당,무해약환급금형)_연간1억원한도",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 100000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "10,000만원"
+      },
+      "premium": 9772,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "항암중입자방사선치료특약AT(무배당,무해약환급금형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 50000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "5,000만원"
+      },
+      "premium": 635,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "뇌혈관질환진단특약AT(무배당,무해약환급금형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 20000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2,000만원"
+      },
+      "premium": 9740,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "허혈심장질환진단특약AT(무배당,무해약환급금형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 20000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2,000만원"
+      },
+      "premium": 5440,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "주요순환계질환통합치료(종합병원이상)특약AT(무배당,무해약환급금형)_연간1억원한도",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 100000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "10,000만원"
+      },
+      "premium": 17019,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "암(특정암및소액암포함)다빈치ㆍ레보아이로봇수술보장특약A10(갱신형,무배당)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 5000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "500만원"
+      },
+      "premium": 1170,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "10년갱신"
+    },
+    {
+      "coverage_name": "암(특정암제외)다빈치ㆍ레보아이로봇수술보장특약A10(갱신형,무배당)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 5000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "500만원"
+      },
+      "premium": 190,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "10년갱신"
+    },
+    {
+      "coverage_name": "153대질병수술보장특약AT(무배당,무해약환급금형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 7700,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "파워수술(1-5종)보장특약ⅣAT(무배당,무해약환급금형)_1종",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 200000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "20만원"
+      },
+      "premium": 2040,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "파워수술(1-5종)보장특약ⅣAT(무배당,무해약환급금형)_2종",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 300000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "30만원"
+      },
+      "premium": 3690,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "파워수술(1-5종)보장특약ⅣAT(무배당,무해약환급금형)_3종",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 3000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "300만원"
+      },
+      "premium": 6150,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "파워수술(1-5종)보장특약ⅣAT(무배당,무해약환급금형)_4종",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 1540,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "파워수술(1-5종)보장특약ⅣAT(무배당,무해약환급금형)_5종",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 11760,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "질병ㆍ재해수술보장특약ⅢAT(무배당,무해약환급금형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 200000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "20만원"
+      },
+      "premium": 3860,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "통합양성신생물수술(연간1회)보장특약A(무배당)_대장",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 200000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "20만원"
+      },
+      "premium": 1364,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "통합양성신생물수술(연간1회)보장특약A(무배당)_식도,결장 및 항문",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 200000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "20만원"
+      },
+      "premium": 62,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "통합양성신생물수술(연간1회)보장특약A(무배당)_위 및 십이지장",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 600000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "60만원"
+      },
+      "premium": 246,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "통합양성신생물수술(연간1회)보장특약A(무배당)_여성 및 남성 특정",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 1000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "100만원"
+      },
+      "premium": 1780,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "통합양성신생물수술(연간1회)보장특약A(무배당)_갑상선ㆍ두경부",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 2000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "200만원"
+      },
+      "premium": 124,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "통합양성신생물수술(연간1회)보장특약A(무배당)_특정 기타부위",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 1000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "100만원"
+      },
+      "premium": 130,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "통합양성신생물수술(연간1회)보장특약A(무배당)_간 및 폐",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 20000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2,000만원"
+      },
+      "premium": 2180,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "통합양성신생물수술(연간1회)보장특약A(무배당)_뇌 및 심장",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 20000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2,000만원"
+      },
+      "premium": 1320,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "2-3인실입원(종합병원이상)특약AT(무배당,무해약환급금형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 50000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "5만원"
+      },
+      "premium": 1145,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "2-3인실입원(상급종합병원)특약AT(무배당,무해약환급금형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 50000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "5만원"
+      },
+      "premium": 340,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "3대질병입원간병인사용(180일한도,종합병원이상)특약AT(무배당)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 80000,
+        "deductible": null,
+        "visit_limit": {
+          "value": 180,
+          "unit": "일"
+        },
+        "is_shared_limit": false,
+        "raw": "8만원"
+      },
+      "premium": 696,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "입원간호간병통합서비스보장(180일한도,요양병원제외)특약AT(무배당,무해약환급금형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 70000,
+        "deductible": null,
+        "visit_limit": {
+          "value": 180,
+          "unit": "일"
+        },
+        "is_shared_limit": false,
+        "raw": "7만원"
+      },
+      "premium": 5551,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "입원간호간병통합서비스보장(181일이상,요양/정신/한방병원제외)특약A(무배당)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 70000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "7만원"
+      },
+      "premium": 42,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "재해추상골절(치아파절제외)ㆍ깁스(부목제외)치료비특약A(무배당,무해약환급금형)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 5100,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    },
+    {
+      "coverage_name": "응급실내원(응급환자)특약AT(무배당,무해약환급금형)",
+      "subscribed_amount": {
+        "per_time": 40000,
+        "annual_limit": null,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "4만원"
+      },
+      "premium": 1056,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "20년납"
+    }
+  ],
+  "error": null
+}

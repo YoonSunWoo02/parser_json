@@ -1,0 +1,308 @@
+{
+  "source": "1265041972000165_박지선_가입제안서.pdf",
+  "document_type": "가입제안서",
+  "contract_summary": {
+    "insurer": "삼성화재해상보험(주)",
+    "product_name": "무배당삼성화재간편보험3655고고새로고침100세(2601.4)(납입면제,해약환급금미지급형Ⅱ)",
+    "product_case": "무배당삼성화재간편보험3655고고새로고침100세(2601.4)(납입면제,해약환급금미지급형Ⅱ)",
+    "job": "회사 사무직 종사자",
+    "gender": "여",
+    "age": 31,
+    "age_raw": "31세",
+    "payment_cycle": "월납",
+    "medical_aid": null,
+    "total_premium": 45557,
+    "total_premium_raw": "45,557원",
+    "renewal": null,
+    "maturity": "100세만기",
+    "payment_period": "30년납"
+  },
+  "coverages": [
+    {
+      "coverage_name": "[간편]상해 사망",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 100000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1억원"
+      },
+      "premium": 2400,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]유사암진단 납입지원",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 22000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2만2천원"
+      },
+      "premium": 1498,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]보험료 납입면제대상Ⅱ",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 100000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "10만원"
+      },
+      "premium": 112,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]상해 중환자실 입원일당(1일이상)",
+      "subscribed_amount": {
+        "per_time": 100000,
+        "annual_limit": null,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "10만원"
+      },
+      "premium": 910,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]질병 중환자실 입원일당(1일이상)",
+      "subscribed_amount": {
+        "per_time": 100000,
+        "annual_limit": null,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "10만원"
+      },
+      "premium": 600,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]상해 입원 수술비(당일입원 제외)(경증상해 제외)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 2000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "200만원"
+      },
+      "premium": 4880,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]상해 통원 수술비(외래 및 당일입원)(경증상해 제외)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 1000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "100만원"
+      },
+      "premium": 870,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]질병 입원 수술비Ⅱ(당일입원 제외)(1년50%)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 300000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "30만원"
+      },
+      "premium": 2385,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]질병 통원 수술비Ⅱ(외래 및 당일입원)(1년50%)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 300000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "30만원"
+      },
+      "premium": 3366,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]상해 1~5종 수술비(1종)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 300000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "30만원"
+      },
+      "premium": 591,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]상해 1~5종 수술비(2종)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 500000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "50만원"
+      },
+      "premium": 915,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]상해 1~5종 수술비(3종)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 3000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "300만원"
+      },
+      "premium": 1140,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]상해 1~5종 수술비(4종)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 80,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]상해 1~5종 수술비(5종)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 20000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "2,000만원"
+      },
+      "premium": 80,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]질병 1~5종 수술비(1종)(1년50%)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 300000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "30만원"
+      },
+      "premium": 3300,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]질병 1~5종 수술비(2종)(1년50%)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 500000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "50만원"
+      },
+      "premium": 3130,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]질병 1~5종 수술비(3종)(1년50%)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 3000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "300만원"
+      },
+      "premium": 4860,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]질병 1~5종 수술비(4종)(1년50%)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 1510,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    },
+    {
+      "coverage_name": "[간편]질병 1~5종 수술비(5종)(1년50%)",
+      "subscribed_amount": {
+        "per_time": null,
+        "annual_limit": 10000000,
+        "deductible": null,
+        "visit_limit": null,
+        "is_shared_limit": false,
+        "raw": "1,000만원"
+      },
+      "premium": 12930,
+      "is_enrolled": true,
+      "coverage_category": null,
+      "payment_period": "30년납"
+    }
+  ],
+  "error": null
+}
