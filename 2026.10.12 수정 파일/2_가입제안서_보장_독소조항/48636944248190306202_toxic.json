@@ -1,0 +1,296 @@
+{
+  "source": "48636944248190306202.pdf",
+  "unit": "page",
+  "total_articles": 26,
+  "toxic_summary": {
+    "total_toxic_clauses": 26,
+    "affected_articles": 12,
+    "with_exception": 0,
+    "excluded_short_quote": 0,
+    "excluded_not_in_source": 11,
+    "deduped": 0,
+    "total_excluded": 11
+  },
+  "toxic_clauses": [
+    {
+      "article_number": 10,
+      "article_title": "10쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "계약일부터 1년 이내 진단 시 지급금액의 50% 지급",
+          "reason": "계약자가 보험금을 전액 지급받지 못하고 50%만 지급받는 불리한 조건",
+          "severity": "중간",
+          "source_quote": "계약일부터 1년이내 「\"초기 이외 유방암\", \"중증 갑상선암\", \"자궁암\" 또는 \"전립선암\"」으로 진단 확정시에는 지급금액의 50%를 지급합니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "계약일부터 1년 이내 진단 시 지급금액의 50% 지급",
+          "reason": "계약자가 보험금을 전액 지급받지 못하고 50%만 지급받는 불리한 조건",
+          "severity": "중간",
+          "source_quote": "계약일부터 1년이내 지급사유 발생시에는 지급금액의 50%를 지급합니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "보험가입금액 변경 시 특약 보험가입금액은 변경되지 않음",
+          "reason": "계약자가 보험가입금액을 변경할 수 없는 불리한 조건",
+          "severity": "중간",
+          "source_quote": "이후, 주계약 또는 특약의 보험가입금액 감액, 특약의 해약 또는 갱신 등으로 주계약 또는 특약 보험료가 변경되더라도 이 특약의 보험가입금액은 변경되지 않습니다.",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 12,
+      "article_title": "12쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "암통합치료비(종합병원이상)보험금 총액이 보험연도 기준 연간 총 지급액 한도를 초과하는 경우 초과분 지급하지 않음",
+          "reason": "계약자가 받을 수 있는 보험금이 한도로 제한됨",
+          "severity": "중간",
+          "source_quote": "다만, 연간 암통합치료비(종합병원이상)보험금 총액이 「보험연도 기준 연간 총 지급액 한도」를 초과하는 경우에는 초과분에 해당하는 금액은 지급하지 않습니다.",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 13,
+      "article_title": "13쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "전액본인부담(비급여포함) 암 수술 보장",
+          "reason": "모든 수술비가 전액 본인 부담으로 설정되어 있어 계약자에게 불리함",
+          "severity": "높음",
+          "source_quote": "전액본인부담(비급여포함)갑상선암, 기타피부암, 제자리암 및 경계성종양 수술(수술 1회당)",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "전액본인부담(비급여포함) 암 항암방사선치료 보장",
+          "reason": "모든 항암방사선 치료비가 전액 본인 부담으로 설정되어 있어 계약자에게 불리함",
+          "severity": "높음",
+          "source_quote": "전액본인부담(비급여포함)갑상선암 및 기타피부암 항암방사선치료(보험연도 기준 연간 1회한)",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "전액본인부담(비급여포함) 암 항암약물치료 보장",
+          "reason": "모든 항암약물 치료비가 전액 본인 부담으로 설정되어 있어 계약자에게 불리함",
+          "severity": "높음",
+          "source_quote": "전액본인부담(비급여포함) 갑상선암 및 기타피부암 항암약물치료(호르몬치료 제외)(보험연도 기준 연간 1회한)",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 14,
+      "article_title": "14쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "계약일부터 1년 이내 지급사유 발생 시 지급금액의 50%를 지급",
+          "reason": "계약자가 지급사유 발생 후 1년 이내에 보험금을 청구해야 하며, 이 경우 지급금액이 절반으로 줄어듦",
+          "severity": "중간",
+          "source_quote": "※ 계약일부터 1년이내 지급사유 발생시에는 지급금액의 50%를 지급합니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "보험연도 기준 연간 총 지급액 한도 초과 시 초과분 지급하지 않음",
+          "reason": "계약자가 보험금 청구 시 연간 지급액 한도를 초과하면 그 초과분에 대해 지급받지 못함",
+          "severity": "중간",
+          "source_quote": "다만, 연간 전액본인부담(비급여포함)암통합치료비(종합병원이상)보험금 총액이 「보험연도 기준 연간 총 지급액 한도」를 초과하는 경우에는 초과분에 해당하는 금액은 지급하지 않습니다.",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 16,
+      "article_title": "16쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "연간 주요순환계질환 통합치료비 보험금 총액이 보험연도 기준 연간 총 지급액 한도를 초과하는 경우 초과분 지급하지 않음",
+          "reason": "계약자가 받을 수 있는 보험금이 한도로 제한됨",
+          "severity": "높음",
+          "source_quote": "다만, 연간 주요순환계질환 통합치료비(종합병원이상)보험금 총액이 「보험연도 기준 연간 총 지급액 한도」를 초과하는 경우에는 초과분에 해당하는 금액은 지급하지 않습니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "최초계약의 계약일부터 180일 이내 보험금 지급사유 발생 시 지급금액의 25% 지급",
+          "reason": "보험금 지급이 지연되며, 초기 계약 후 180일 이내에 발생한 경우 지급액이 제한됨",
+          "severity": "중간",
+          "source_quote": "최초계약의 계약일부터 180일 이내 보험금 지급사유 발생시 지급금액의 25%를 지급하며",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "최초계약의 계약일부터 180일 초과 1년 이내 보험금 지급사유 발생 시 지급금액의 50% 지급",
+          "reason": "보험금 지급이 지연되며, 초기 계약 후 1년 이내에 발생한 경우 지급액이 제한됨",
+          "severity": "중간",
+          "source_quote": "최초계약의 계약일부터 180일 초과 1년이내 보험금 지급사유 발생시 지급금액의 50%를 지급합니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "계약일부터 1년 이내 재해 이외의 원인으로 인하여 지급사유 발생 시 지급금액의 50% 지급",
+          "reason": "재해 이외의 원인으로 발생한 경우 지급액이 제한됨",
+          "severity": "중간",
+          "source_quote": "계약일부터 1년이내 재해 이외의 원인으로 인하여 지급사유 발생시에는 지급금액의 50%를 지급합니다.",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 19,
+      "article_title": "19쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "소액질병진단보험료납입지원특약은 주계약의 보험료 납입 면제 사유 발생 시 소멸됨",
+          "reason": "주계약의 보험료 납입 면제 사유가 발생해도 이 특약은 납입면제되지 않고 소멸되어 계약자에게 불리함",
+          "severity": "중간",
+          "source_quote": "소액질병진단보험료납입지원특약의 경우 보험료 납입기간 중 주계약의 보험료 납입 면제 사유가 발생하였을 경우 이 특약은 납입면제되지 않고 소멸됩니다.",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 21,
+      "article_title": "21쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "해약환급금이 없는 경우",
+          "reason": "주보험 및 무해약환급금형 특약은 계약일부터 해지할 경우 해약환급금이 없습니다.",
+          "severity": "높음",
+          "source_quote": "주보험 및 무해약환급금형 특약은 계약일부터 「보험료 납입기간」 계약해당일의 전일까지 계약을 해지할 경우 해약환급금이 없습니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "중도 해지 시 해약환급금 차감",
+          "reason": "중도 해지 시 해약환급금은 납입한 보험료에서 여러 비용이 차감되어 적거나 없을 수 있습니다.",
+          "severity": "높음",
+          "source_quote": "이 보험계약을 중도 해지할 경우 해약환급금은 납입한 보험료에서 경과된 기간의 위험보험료, 계약체결비용 및 계약관리비용, 해약공제금액 등이 차감되므로 납입보험료보다 적거나 없을 수 있습니다.",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 22,
+      "article_title": "22쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "갱신계약의 보험료는 갱신일 현재 피보험자의 나이에 따라 계산하고, 갱신시점의 기초율에 따라 보험료가 인상될 수 있음",
+          "reason": "갱신 시 보험료가 인상될 수 있어 계약자에게 불리함",
+          "severity": "높음",
+          "source_quote": "갱신계약의 보험료는 갱신일 현재 피보험자의 나이에 따라 계산하고, 갱신시점의 기초율(적용이율, 계약체결비용, 계약관리비용, 위험률)을 적용합니다. 따라서, 나이 증가, 기초율의 변동에 따라 최초계약 당시보다 갱신시 보험료가 인상 될 수 있습니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "갱신되지 않으면 최종 갱신계약의 보험기간 만료일까지 보험료를 계속 납입해야 함",
+          "reason": "갱신하지 않겠다는 의사표시를 하지 않으면 계속 보험료를 납입해야 하므로 계약자에게 불리함",
+          "severity": "중간",
+          "source_quote": "상기 예시된 보험료는 5회 갱신까지만 예시한 것으로 갱신하지 않겠다는 별도의 의사표시를 하지 않는 경우 최종 갱신계약의 보험기간 만료일까지 갱신보험료를 계속 납입하여야 합니다.",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 23,
+      "article_title": "23쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "재해는 보험기간 중 발생한 재해에 한합니다.",
+          "reason": "보험기간 외의 재해는 보장하지 않음",
+          "severity": "높음",
+          "source_quote": "이 계약(특약 포함)에서 보장의 대상이 되는 재해는 보험기간 중 발생한 재해에 한합니다.",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 24,
+      "article_title": "24쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "비급여 항암약물 치료에 대한 전액 본인부담",
+          "reason": "국민건강보험 요양급여의 기준에 따른 약가의 일부를 부담하지 않아, 약가의 전부를 환자 본인이 부담해야 함",
+          "severity": "높음",
+          "source_quote": "전액본인부담(비급여포함)특정면역항암약물허가치료",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 25,
+      "article_title": "25쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "정당한 이유없이 입원기간 중 의사의 지시에 따르지 않은 경우 보험금 지급하지 않음",
+          "reason": "계약자가 의사의 지시에 따르지 않을 경우 보험금 지급이 전부 또는 일부 제한됨",
+          "severity": "낮음",
+          "source_quote": "피보험자가 정당한 이유없이 입원기간 중 의사의 지시에 따르지 않은 때에는 보험금의 전부 또는 일부를 지급하지 않습니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "선천 기형, 변형 및 염색체 이상으로 인한 질병은 보장하지 않음",
+          "reason": "선천 기형 등으로 인한 질병은 보장 대상에서 제외됨",
+          "severity": "중간",
+          "source_quote": "② 선천 기형, 변형 및 염색체 이상(Q00∼Q99)으로 인한 질병",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "마약, 습관성 의약품 및 알코올중독으로 인한 경우 보장하지 않음",
+          "reason": "마약 및 알코올중독으로 인한 질병은 보장 대상에서 제외됨",
+          "severity": "중간",
+          "source_quote": "③ 마약, 습관성 의약품 및 알코올중독으로 인한 경우",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "치의보철 및 미용상의 처치로 인한 경우 보장하지 않음",
+          "reason": "치의보철 및 미용상의 처치는 보장 대상에서 제외됨",
+          "severity": "중간",
+          "source_quote": "④ 치의보철 및 미용상의 처치로 인한 경우",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 26,
+      "article_title": "26쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "고의 또는 중대한 과실로 중요한 사항에 대하여 사실과 다르게 알린 경우 계약 해지 및 보장 제한",
+          "reason": "계약자가 고의 또는 중대한 과실로 사실과 다르게 알린 경우 회사가 일방적으로 계약을 해지할 수 있음",
+          "severity": "높음",
+          "source_quote": "고의 또는 중대한 과실로 중요한 사항에 대하여 사실과 다르게 알린 경우, 회사는 계약자 또는 피보험자의 의사와 관계없이 계약을 해지하여 해약환급금을 지급하거나 보장을 제한할 수 있습니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "해약환급금은 이미 납입한 보험료보다 적거나 없을 수 있음",
+          "reason": "계약자가 납입한 보험료보다 적거나 없을 수 있어 계약자에게 불리함",
+          "severity": "중간",
+          "source_quote": "해약환급금은 이미 납입한 보험료보다 적거나 없을 수 있습니다.",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1338 @@
+{
+  "source": "1265041972000164_박지선_가입제안서.pdf",
+  "unit": "page",
+  "total_articles": 18,
+  "candidate_articles": 15,
+  "coverage_filtered_articles": 9,
+  "extracted_coverages": 45,
+  "results": [
+    {
+      "number": 3,
+      "title": "3쪽",
+      "avg_confidence": 80,
+      "coverages": [],
+      "error": null
+    },
+    {
+      "number": 4,
+      "title": "4쪽",
+      "avg_confidence": 80,
+      "coverages": [
+        {
+          "coverage_name": "수술",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": null
+          },
+          "payment_condition": "1회당",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "수술 암(기타피부암 및 갑상선암 포함) 수술 1회당 1,000 1,000",
+          "confidence": 80,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "주요치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": null
+          },
+          "payment_condition": "연 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "주요치료 항암방사선치료 암(기타피부암 및 갑상선암 포함) 연 1회한 1,000 1,000",
+          "confidence": 80,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "항암약물치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": null
+          },
+          "payment_condition": "연 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "항암약물치료 암(기타피부암 및 갑상선암 포함) 연 1회한 1,000 1,000",
+          "confidence": 80,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암 통합치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": null
+          },
+          "payment_condition": "연 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "암 통합치료 (전액본인부담 암(특정암 제외) 연 1회한 1,000 1,000",
+          "confidence": 80,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "다빈치로봇 수술",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": null
+          },
+          "payment_condition": "연 1회한",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "다빈치로봇 수술 (비급여포함) 특정암 연 1회한 500 500",
+          "confidence": 80,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "특정치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": null
+          },
+          "payment_condition": "연 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "특정치료 항암양성자방사선치료 암(기타피부암 및 갑상선암 포함) 연 1회한 3,000 1,000",
+          "confidence": 80,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "표적항암약물허가치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": null
+          },
+          "payment_condition": "연 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "표적항암약물허가치료 암(기타피부암 및 갑상선암 포함) 연 1회한 3,000 1,000",
+          "confidence": 80,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "특정면역항암약물허가치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": null
+          },
+          "payment_condition": "연 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "특정면역항암약물허가치료 암(기타피부암 및 갑상선암 포함) 연 1회한 3,000 1,000",
+          "confidence": 80,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "연 최대 한도",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": null
+          },
+          "payment_condition": "없음",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "연 최대 한도 10,000 5,000",
+          "confidence": 80,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": 5,
+      "title": "5쪽",
+      "avg_confidence": 0,
+      "coverages": [],
+      "error": null
+    },
+    {
+      "number": 6,
+      "title": "6쪽",
+      "avg_confidence": 100,
+      "coverages": [
+        {
+          "coverage_name": "암 진단비(유사암 제외)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 50000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "5,000만원"
+          },
+          "payment_condition": "보장개시일 이후 암(유사암 제외)으로 진단 확정된 경우 가입금액 지급(최초 1회한)",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[건강]암 진단비(유사암 제외) 11 보장개시일 이후 암(유사암 제외)으로 진단 확정된 경우 가입금액 지급(최초 1회한) 5,000만원 31,550 30년납",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "유사암 진단비(기타피부암)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보험기간 중 기타피부암으로 진단 확정된 경우 가입금액 지급(각각 최초 1회한)",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[건강]유사암 진단비(기타피부암) 1,000만원 보험기간 중 기타피부암으로 진단 확정된 경우 가입금액 지급(각각 최초 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "유사암 진단비(갑상선암)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보험기간 중 갑상선암으로 진단 확정된 경우 가입금액 지급(각각 최초 1회한)",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[건강]유사암 진단비(갑상선암) 1,000만원 보험기간 중 갑상선암으로 진단 확정된 경우 가입금액 지급(각각 최초 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "유사암 진단비(대장점막내암)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보험기간 중 대장점막내암으로 진단 확정된 경우 가입금액 지급(각각 최초 1회한)",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[건강]유사암 진단비(대장점막내암) 30년납 15 1,000만원 4,700 보험기간 중 대장점막내암으로 진단 확정된 경우 가입금액 지급(각각 최초 1회한) 100세만기",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "유사암 진단비(제자리암)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보험기간 중 제자리암으로 진단 확정된 경우 가입금액 지급(각각 최초 1회한)",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[건강]유사암 진단비(제자리암) 1,000만원 보험기간 중 제자리암으로 진단 확정된 경우 가입금액 지급(각각 최초 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "유사암 진단비(경계성종양)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보험기간 중 경계성종양으로 진단 확정된 경우 가입금액 지급(각각 최초 1회한)",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[건강]유사암 진단비(경계성종양) 1,000만원 보험기간 중 경계성종양으로 진단 확정된 경우 가입금액 지급(각각 최초 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "종합병원 암 전액본인부담(비급여포함) 통합치료비(표준형,연간1억원한도)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 100000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "1억원"
+          },
+          "payment_condition": "보장개시일 이후 「통합치료항목별 대상질병」으로 진단확정되고, 그 치료를 직접적인 목적으로 종합병원에서 「암 통합치료(전액본인부담(비급여포함)치료)」를 받은 경우 각 치료행위별로 각각의 지급방식에 따라 약관에서 정한 금액을 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[건강]종합병원 암 전액본인부담(비급여포함) 통합치료비(표준형,연간1억원한도) 암 통합치료(전액본인부담(비급여포함)치료) 보장개시일 이후 「통합치료항목별 대상질병」으로 진단확정되고, 그 치료를 직접적인 목적으로 종합병원에서 「암 통합치료(전액본인부담(비급여포함)치료)」를 받은 경우 30년납 57 각 치료행위별로 각각의 지급방식에 따라 약관에서 정한 금액을 지급 1억원 6,558 100세만기",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "종합병원 암(유사암Ⅱ 제외) 특정치료비Ⅱ",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 20000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "2,000만원"
+          },
+          "payment_condition": "보장개시일 이후 암(기타피부암 및 갑상선암 제외)으로 진단확정되고, 종합병원에서 암(기타피부암 및 갑상선암 제외) 특정치료Ⅱ를 받은 경우 각 치료행위별 연간 1회에 한하여 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[건강]종합병원 암(유사암Ⅱ 제외) 특정치료비Ⅱ 보장개시일 이후 암(기타피부암 및 갑상선암 제외)으로 진단확정되고, 종합병원에서 암(기타피부암 및 갑상선암 제외) 특정치료Ⅱ를 받은 경우 각 치료행위별 연간 1회에 한하여 가입금액 지급 30년납 79 ※ 암(기타피부암 및 갑상선암 제외)의 보장개시일은 최초 계약일 또는 부활(효력회복)일부터 90일이 지난 2,000만원 23,840 100세만기",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "종합병원 유사암Ⅱ 특정치료비Ⅱ",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 6000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "600만원"
+          },
+          "payment_condition": "보장개시일 이후 기타피부암, 갑상선암, 제자리암 또는 경계성종양(이하 유사암Ⅱ) 으로 진단확정되고, 종합병원에서 유사암Ⅱ 특정치료Ⅱ를 받은 경우 각 치료행위별 연간 1회에 한하여 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[건강]종합병원 유사암Ⅱ 특정치료비Ⅱ 보장개시일 이후 기타피부암, 갑상선암, 제자리암 또는 경계성종양(이하 유사암Ⅱ) 으로 진단확정되고, 종합병원에서 유사암Ⅱ 특정치료Ⅱ를 받은 경우 각 치료행위별 연간 1회에 한하여 가입금액 지급 600만원 2,208 30년납",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": 7,
+      "title": "7쪽",
+      "avg_confidence": 100,
+      "coverages": [
+        {
+          "coverage_name": "암(기타피부암 및 갑상선암 포함) 전액본인부담(비급여포함) 특정치료비Ⅱ",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보장개시일 이후 암(기타피부암 및 갑상선암 포함)으로 진단확정되고, 종합병원에서 암(기타피부암 및 갑상선암 포함) 전액본인부담(비급여포함) 특정치료Ⅱ를 받은 경우 각 치료행위별 연간 1회에 한하여 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "암(기타피부암 및 갑상선암 포함) 전액본인부담(비급여포함) 특정치료비Ⅱ를 받은 경우 각 치료행위별 연간 1회에 한하여 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "전이암(특정뇌및림프절암제외) 특정치료비Ⅱ",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 15000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,500만원"
+          },
+          "payment_condition": "보장개시일 이후 전이암(특정뇌및림프절암제외)으로 진단확정되고, 종합병원에서 전이암(특정뇌및림프절암제외) 특정치료Ⅱ를 받은 경우 각 치료행위별 연간 1회에 한하여 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "전이암(특정뇌및림프절암제외)으로 진단확정되고, 종합병원에서 전이암(특정뇌및림프절암제외) 특정치료Ⅱ를 받은 경우 각 치료행위별 연간 1회에 한하여 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암(유사암Ⅱ 제외) 복합치료(연간2회이상) 회복지원금(연간1회한)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보장개시일 이후 암(기타피부암 및 갑상선암 제외)으로 진단확정되고, 종합병원에서 암(기타피부암 및 갑상선암 제외) 특정치료Ⅲ를 받아 연간치료횟수 산정기준에 따른 연간 암(기타피부암 및 갑상선암 제외) 특정 치료횟수가 연간 2회이상인 경우에는 연간 1회에 한하여 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "암(유사암Ⅱ 제외) 복합치료(연간2회이상) 회복지원금(연간1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암(유사암Ⅱ 제외) 복합치료(연간3회이상) 회복지원금(연간1회한)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 5000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "500만원"
+          },
+          "payment_condition": "보장개시일 이후 암(기타피부암 및 갑상선암 제외)으로 진단확정되고, 종합병원에서 암(기타피부암 및 갑상선암 제외) 특정치료Ⅲ를 받아 연간치료횟수 산정기준에 따른 연간 암(기타피부암 및 갑상선암 제외) 특정 치료횟수가 연간 3회이상인 경우에는 연간 1회에 한하여 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "암(유사암Ⅱ 제외) 복합치료(연간3회이상) 회복지원금(연간1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "유사암Ⅱ 복합치료(연간2회이상) 회복지원금(연간1회한)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 2000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "200만원"
+          },
+          "payment_condition": "보장개시일 이후 기타피부암, 갑상선암, 제자리암 또는 경계성종양(이하 유사암Ⅱ)으로 진단확정되고, 종합병원에서 유사암Ⅱ 특정치료Ⅲ를 받아 연간치료횟수 산정기준에 따른 연간 유사암Ⅱ 특정치료횟수가 연간 2회이상인 경우에는 연간 1회에 한하여 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "유사암Ⅱ 복합치료(연간2회이상) 회복지원금(연간1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": 8,
+      "title": "8쪽",
+      "avg_confidence": 100,
+      "coverages": [
+        {
+          "coverage_name": "유사암Ⅱ 복합치료(연간3회이상) 회복지원금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 1000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "100만원"
+          },
+          "payment_condition": "유사암Ⅱ로 진단확정되고, 종합병원에서 유사암Ⅱ 특정치료Ⅲ를 받아 연간 3회이상인 경우 연간 1회에 한하여 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "유사암Ⅱ로 진단확정되고, 종합병원에서 유사암Ⅱ 특정치료Ⅲ를 받아 연간 치료횟수 산정기준에 따른 연간 유사암Ⅱ 특정치료횟수가 연간 3회이상인 경우에는 연간 1회에 한하여 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "항암방사선·약물 치료비Ⅲ(기타피부암 및 갑상선암)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 1000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "100만원"
+          },
+          "payment_condition": "갑상선암, 기타피부암으로 진단 확정되고 그 치료를 직접적인 목적으로 항암방사선 또는 항암약물치료를 받은 경우 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "갑상선암, 기타피부암으로 진단 확정되고 그 치료를 직접적인 목적으로 항암방사선 또는 항암약물치료를 받은 경우 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "항암방사선·약물 치료비Ⅲ(암(기타피부암 및 갑상선암 제외))",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 1000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "100만원"
+          },
+          "payment_condition": "암으로 진단 확정되고 그 치료를 직접적인 목적으로 항암방사선 또는 항암약물치료를 받은 경우 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "암으로 진단 확정되고 그 치료를 직접적인 목적으로 항암방사선 또는 항암약물치료를 받은 경우 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "항암 중입자방사선 치료비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 50000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "5,000만원"
+          },
+          "payment_condition": "암, 기타피부암 또는 갑상선암으로 진단 확정되고 그 치료를 직접적인 목적으로 항암중입자방사선치료를 받은 경우 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "암, 기타피부암 또는 갑상선암으로 진단 확정되고 그 치료를 직접적인 목적으로 항암중입자방사선치료를 받은 경우 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "표적항암약물허가 치료비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 100000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1억원"
+          },
+          "payment_condition": "암, 기타피부암 또는 갑상선암으로 진단 확정되고 그 치료를 직접적인 목적으로 표적항암약물허가 치료를 받은 경우 가입금액 지급",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "암, 기타피부암 또는 갑상선암으로 진단 확정되고 그 치료를 직접적인 목적으로 표적항암약물허가 치료를 받은 경우(최초 1회한 지급)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "뇌혈관질환 진단비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 20000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "2,000만원"
+          },
+          "payment_condition": "약관에 정한 뇌혈관질환으로 진단 확정된 경우 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "약관에 정한 뇌혈관질환(뇌졸중포함)으로 진단 확정된 경우 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "허혈성심장질환 진단비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 30000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "3,000만원"
+          },
+          "payment_condition": "약관에 정한 허혈성심장질환으로 진단 확정된 경우 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "약관에 정한 허혈성심장질환으로 진단 확정된 경우 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "종합병원 특정순환계질환 특정치료비Ⅲ(수술,혈전용해,혈전제거)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "특정순환계질환으로 진단확정되고 종합병원에서 특정순환계질환으로 특정순환계질환 특정치료Ⅲ를 받은 경우 각 치료행위별로 각각의 지급방식에 따라 가입금액을 지급",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "특정순환계질환으로 진단확정되고 종합병원에서 특정순환계질환으로 특정순환계질환 특정치료Ⅲ를 받은 경우 각 치료행위별로 각각의 지급방식에 따라 가입금액을 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "종합병원 특정순환계질환 특정치료비Ⅲ(중환자실)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 3000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "300만원"
+          },
+          "payment_condition": "특정순환계질환으로 진단확정되고 그 직접적인 치료를 목적으로 종합병원의 중환자실에 입원하여 치료를 받은 경우 가입금액을 지급",
+          "contract_type": "주계약",
+          "coverage_type": "입원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "특정순환계질환으로 진단확정되고 그 직접적인 치료를 목적으로 종합병원의 중환자실에 입원하여 치료를 받은 경우 가입금액을 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": 9,
+      "title": "9쪽",
+      "avg_confidence": 100,
+      "coverages": [
+        {
+          "coverage_name": "종합병원 특정순환계질환 복합치료(연간2회이상) 회복지원금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보험기간 중 특정순환계질환으로 진단확정되고, 종합병원에서 특정순환계질환 특정치료Ⅲ를 받아 연간치료횟수 산정기준에 따른 연간 특정순환계질환 특정치료횟수가 연간 2회이상인 경우에는 연간 1회에 한하여 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "연간 특정순환계질환 특정치료횟수가 연간 2회이상인 경우에는 연간 1회에 한하여 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "종합병원 특정순환계질환 복합치료(연간3회이상) 회복지원금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 5000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "500만원"
+          },
+          "payment_condition": "보험기간 중 특정순환계질환으로 진단확정되고, 종합병원에서 특정순환계질환 특정치료Ⅲ를 받아 연간치료횟수 산정기준에 따른 연간 특정순환계질환 특정치료횟수가 연간 3회이상인 경우에는 연간 1회에 한하여 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "연간 특정순환계질환 특정치료횟수가 연간 3회이상인 경우에는 연간 1회에 한하여 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "기타 심장부정맥 진단비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보험기간 중 약관에서 정한 부정맥(I49)으로 진단 확정된 경우 가입금액 지급(최초 1회한)",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "보험기간 중 약관에서 정한 부정맥(I49)으로 진단 확정된 경우 가입금액 지급(최초 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "특정 외상성 뇌손상 진단비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 2000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "200만원"
+          },
+          "payment_condition": "상해사고로 약관에 정한 「특정 외상성 뇌손상」으로 진단 확정된 경우 가입금액 지급(최초 1회한)",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "상해사고로 약관에 정한 「특정 외상성 뇌손상」으로 진단 확정된 경우 가입금액 지급(최초 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "특정 외상성 뇌출혈 진단비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "상해사고로 약관에 정한 「특정 외상성 뇌출혈」로 진단 확정된 경우 가입금액 지급(최초 1회한)",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "상해사고로 약관에 정한 「특정 외상성 뇌출혈」로 진단 확정된 경우 가입금액 지급(최초 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "특정 외상성 장기손상 진단비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 1000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "100만원"
+          },
+          "payment_condition": "상해사고로 약관에 정한 「특정 외상성 장기손상」으로 진단 확정된 경우 가입금액 지급(최초 1회한)",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "상해사고로 약관에 정한 「특정 외상성 장기손상」으로 진단 확정된 경우 가입금액 지급(최초 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "골절 진단비(치아 파절(깨짐, 부러짐) 제외)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 400000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "40만원"
+          },
+          "payment_condition": "상해사고로 약관에 정한 골절(치아파절(깨짐, 부러짐) 제외)로 진단 확정된 경우 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "상해사고로 약관에 정한 골절(치아파절(깨짐, 부러짐) 제외)로 진단 확정된 경우 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "골절 진단비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 100000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "10만원"
+          },
+          "payment_condition": "상해사고로 약관에 정한 골절로 진단 확정된 경우 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "상해사고로 약관에 정한 골절로 진단 확정된 경우 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "5대골절 진단비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 2000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "200만원"
+          },
+          "payment_condition": "상해사고로 약관에 정한 5대골절로 진단받은 경우 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "상해사고로 약관에 정한 5대골절로 진단받은 경우 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "깁스치료비(부목치료 제외)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 200000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "20만원"
+          },
+          "payment_condition": "보험기간 중 상해 또는 질병으로 약관에 정한 깁스치료를 받은 경우 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "보험기간 중 상해 또는 질병으로 약관에 정한 깁스치료를 받은 경우 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "중대 화상·부식 진단비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "상해사고로 신체 표면적으로 최소 20%이상의 3도 화상 또는 부식(화학약품 등에 의한 피부손상)을 입은 경우 가입금액 지급(최초 1회한)",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "상해사고로 신체 표면적으로 최소 20%이상의 3도 화상 또는 부식(화학약품 등에 의한 피부손상)을 입은 경우 가입금액 지급(최초 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "조혈모세포이식 수술비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보험기간 중 질병으로 조혈모세포이식 수술을 받은 경우 가입금액 지급(최초 1회한)",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "보험기간 중 질병으로 조혈모세포이식 수술을 받은 경우 가입금액 지급(최초 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "뇌·내장손상 수술비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 20000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "2,000만원"
+          },
+          "payment_condition": "상해사고로 사고일부터 180일 이내에 약관에 정한 뇌손상으로 개두(開頭)수술을 받거나, 내장손상으로 개흉(開胸)수술 또는 개복(開腹)수술을 받은 경우 가입금액 지급(최초 1회한)",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "상해사고로 사고일부터 180일 이내에 약관에 정한 뇌손상으로 개두(開頭)수술을 받거나, 내장손상으로 개흉(開胸)수술 또는 개복(開腹)수술을 받은 경우 가입금액 지급(최초 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": 10,
+      "title": "10쪽",
+      "avg_confidence": 0,
+      "coverages": [],
+      "error": null
+    },
+    {
+      "number": 16,
+      "title": "16쪽",
+      "avg_confidence": 0,
+      "coverages": [],
+      "error": null
+    }
+  ]
+}

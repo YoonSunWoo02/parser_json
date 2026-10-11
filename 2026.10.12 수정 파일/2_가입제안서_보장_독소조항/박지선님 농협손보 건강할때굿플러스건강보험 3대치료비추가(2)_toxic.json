@@ -1,0 +1,146 @@
+{
+  "source": "박지선님 농협손보 건강할때굿플러스건강보험 3대치료비추가(2).pdf",
+  "unit": "page",
+  "total_articles": 10,
+  "toxic_summary": {
+    "total_toxic_clauses": 11,
+    "affected_articles": 7,
+    "with_exception": 2,
+    "excluded_short_quote": 0,
+    "excluded_not_in_source": 7,
+    "deduped": 0,
+    "total_excluded": 7
+  },
+  "toxic_clauses": [
+    {
+      "article_number": 3,
+      "article_title": "3쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "피보험자가 고의로 자신을 해친 경우 보험금 지급하지 않음",
+          "reason": "고의적인 행위에 대해 보험금 지급을 면책함",
+          "severity": "높음",
+          "source_quote": "1. 피보험자가 고의로 자신을 해친 경우",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "피보험자가 직업, 직무 또는 동호회 활동목적으로 상해를 입은 경우 보험금 지급하지 않음",
+          "reason": "특정 활동에 대한 면책 조항이 존재함",
+          "severity": "중간",
+          "source_quote": "피보험자가 직업, 직무 또는 동호회 활동목적으로 다음의 행위로 인하여 상해 관련 보험금 지급사유가 발생한 때",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 4,
+      "article_title": "4쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "암보장개시일 이후에 암(유사암제외)으로 진단확정시 최초 1회에 한하여 가입금액 지급",
+          "reason": "암보장개시일이 보험계약일부터 90일이 지난 날의 다음날로 제한됨",
+          "severity": "높음",
+          "source_quote": "암보장개시일 이후에 암(유사암제외)으로 진단확정시 최초 1회에 한하여 가입금액 지급 ※ 암보장개시일은 보험계약일부터 그 날을 포함하여 90일이 지난날의 다음날로 합니다.",
+          "exception": "부활하는 경우 부활일부터 90일이 지난 날의 다음날을 암보장개시일로 함",
+          "exception_quote": "다만, 부활하는 경우 부활일부터 그 날을 포함하여 90일이 지난 날의 다음날을 암보장개시일로 합니다."
+        },
+        {
+          "clause_summary": "기타피부암, 갑상선암, 제자리암 또는 경계성종양으로 진단확정시 최초 1회에 한하여 해당 약관에서 정한 금액 지급",
+          "reason": "특정 암에 대한 지급이 제한됨",
+          "severity": "중간",
+          "source_quote": "기타피부암, 갑상선암, 제자리암 또는 경계성종양으로 진단확정시 최초 1회에 한하여 해당 약관에서 정한 금액 지급",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "보장개시일 이후에 암(유사암제외)으로 진단 확정되고, 그 암의 치료를 직접적인 목적으로 종합병원에서 암주요치료Ⅱ(암수술)를 받은 경우 연간 1회에 한하여 가입금액 지급",
+          "reason": "암 치료에 대한 지급이 특정 조건에 제한됨",
+          "severity": "중간",
+          "source_quote": "보장개시일 이후에 암(유사암제외)으로 진단 확정되고, 그 암의 치료를 직접적인 목적으로 종합병원에서 암주요치료Ⅱ(암수술)를 받은 경우 연간 1회에 한하여 가입금액 지급",
+          "exception": "(단, 계약일 현재 보험나이 15세미만 피보험자의 경우에는 보장개시일을 보험계약일로 합니다.)",
+          "exception_quote": "(단, 계약일 현재 보험나이 15세미만 피보험자의 경우에는 보장개시일을 보험계약일로 합니다.)"
+        }
+      ]
+    },
+    {
+      "article_number": 5,
+      "article_title": "5쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "보장개시일 이후에 암(유사암제외)으로 진단 확정되고, 그 암의 치료를 직접적인 목적으로 종합병원에서 암주요치료Ⅱ(항암호르몬약물치료)를 받은 경우 연간 1회에 한하여 가입금액 지급",
+          "reason": "유사암은 보장하지 않으며, 항암호르몬약물치료는 보장금액이 지급되지 않음",
+          "severity": "높음",
+          "source_quote": "보장개시일 이후에 암(유사암제외)으로 진단 확정되고, 그 암의 치료를 직접적인 목적으로 종합병원에서 암주요치료Ⅱ(항암호르몬약물치료)를 받은 경우 연간 1회에 한하여 가입금액 지급",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 6,
+      "article_title": "6쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "암 보장 개시일 이후 치료에 대한 지급 제한",
+          "reason": "암 보장 개시일 이후에만 지급되며, 특정 치료에 대해서만 최초 1회에 한하여 지급됨",
+          "severity": "높음",
+          "source_quote": "암보장개시일 이후 암, 기타피부암 또는 갑상선암으로 진단 확정되고, 그 치료를 직접적인 목적으로 항암방사선(중입자) 치료를 받은 경우에는 최초 1회에 한하여 가입금액 지급",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "심근병증에 대한 최초 1회 지급 제한",
+          "reason": "심근병증으로 진단 확정시 최초 1회에 한하여 지급됨",
+          "severity": "중간",
+          "source_quote": "심근병증으로 진단 확정시 최초 1회에 한하여 가입금액 지급",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 8,
+      "article_title": "8쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "일반고지 대비 추가 운영하는 계약 전 알릴의무사항에 대해서도 약관에서 정한 알릴 의무 위반의 효과는 동일하게 적용",
+          "reason": "계약자가 추가 고지 의무를 위반할 경우 불이익을 받을 수 있음",
+          "severity": "높음",
+          "source_quote": "일반심사 대비 추가로 운영하는 계약 전 알릴의무사항에 대해서도 약관에서 정한 알릴 의무 위반의 효과는 동일하게 적용합니다.",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 9,
+      "article_title": "9쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "보험가입이 거절될 수 있으며, 보험계약을 일방적으로 해지할 수 있음",
+          "reason": "고지 의무를 위반할 경우 계약자가 불리한 처분을 받을 수 있음",
+          "severity": "높음",
+          "source_quote": "만약 아래 질문들에 대하여 사실대로 알리지 않거나 사실과 다르게 알린 경우에는 보험가입이 거절될 수 있으며, 특히 그 내용이「중요한 사항」에 해당되는 경우에 회사는 보험약관에 따라 이 보험계약을 일방적으로 해지할 수 있고, 이미 보험사고가 발생하였더라도 보험금 지급을 거절하는 등 보장이 제한될 수 있습니다.",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 10,
+      "article_title": "10쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "계약 해지 등 알릴의무 위반에 따른 불이익 발생",
+          "reason": "계약자가 알릴 의무를 위반할 경우 계약 해지 등의 불이익이 발생할 수 있음",
+          "severity": "높음",
+          "source_quote": "본 질문에 '아니오'로 기재하고 보험계약 체결 후 이륜자동차 또는 전동킥보드 등 개인형이동장치를 포함한 원동기장치 자전거를 사용하게 된 사실을 지체없이 회사에 알리지 않은 경우 계약 해지 등 알릴의무 위반에 따른 불이익이 발생할 수 있습니다.",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    }
+  ]
+}

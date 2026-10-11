@@ -1,0 +1,727 @@
+{
+  "source": "1265041972000165_박지선_가입제안서.pdf",
+  "unit": "page",
+  "total_articles": 11,
+  "candidate_articles": 9,
+  "coverage_filtered_articles": 6,
+  "extracted_coverages": 24,
+  "results": [
+    {
+      "number": 2,
+      "title": "2쪽",
+      "avg_confidence": 89,
+      "coverages": [
+        {
+          "coverage_name": "질병 입원 수술비Ⅱ(당일입원 제외)(1년50%)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "30만원"
+          },
+          "payment_condition": "1년50%",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[간편]질병 입원 수술비Ⅱ(당일입원 제외)(1년50%) 30만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "질병 통원 수술비Ⅱ(외래 및 당일입원)(1년50%)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "30만원"
+          },
+          "payment_condition": "1년50%",
+          "contract_type": "주계약",
+          "coverage_type": "통원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[간편]질병 통원 수술비Ⅱ(외래 및 당일입원)(1년50%) 30만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "상해 1~5종 수술비(3종)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "300만원"
+          },
+          "payment_condition": null,
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[간편]상해 1~5종 수술비(3종) 300만원",
+          "confidence": 80,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "상해 1~5종 수술비(4종)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": null,
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[간편]상해 1~5종 수술비(4종) 1,000만원",
+          "confidence": 80,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "상해 1~5종 수술비(5종)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "2,000만원"
+          },
+          "payment_condition": null,
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[간편]상해 1~5종 수술비(5종) 2,000만원",
+          "confidence": 80,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "질병 1~5종 수술비(1종)(1년50%)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "30만원"
+          },
+          "payment_condition": "1년50%",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[간편]질병 1~5종 수술비(1종)(1년50%) 30만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "질병 1~5종 수술비(2종)(1년50%)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "50만원"
+          },
+          "payment_condition": "1년50%",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[간편]질병 1~5종 수술비(2종)(1년50%) 50만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "질병 1~5종 수술비(3종)(1년50%)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "300만원"
+          },
+          "payment_condition": "1년50%",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[간편]질병 1~5종 수술비(3종)(1년50%) 300만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "질병 1~5종 수술비(4종)(1년50%)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "1년50%",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[간편]질병 1~5종 수술비(4종)(1년50%) 1,000만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "질병 1~5종 수술비(5종)(1년50%)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "1년50%",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[간편]질병 1~5종 수술비(5종)(1년50%) 1,000만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": 3,
+      "title": "3쪽",
+      "avg_confidence": 0,
+      "coverages": [],
+      "error": null
+    },
+    {
+      "number": 4,
+      "title": "4쪽",
+      "avg_confidence": 100,
+      "coverages": [
+        {
+          "coverage_name": "상해 중환자실 입원일당(1일이상)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 100000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "10만원"
+          },
+          "payment_condition": "상해사고로 병·의원 등의 중환자실에 1일이상 계속 입원하여 치료를 받은 경우 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "입원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "상해사고로 병·의원 등의 중환자실에 1일이상 계속 입원하여 치료를 받은 경우 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "질병 중환자실 입원일당(1일이상)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 100000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "10만원"
+          },
+          "payment_condition": "보험기간 중 질병으로 병·의원 등의 중환자실에 1일이상 계속 입원하여 치료를 받은 경우 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "입원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "보험기간 중 질병으로 병·의원 등의 중환자실에 1일이상 계속 입원하여 치료를 받은 경우 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "상해 입원 수술비(당일입원 제외)(경증상해 제외)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 2000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "200만원"
+          },
+          "payment_condition": "보험기간 중 상해의 치료를 직접적인 목적으로 병원 또는 의원에 2일이상 입원하여 수술을 받은 경우 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "보험기간 중 상해의 치료를 직접적인 목적으로 병원 또는 의원에 2일이상 입원하여 수술을 받은 경우 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "상해 통원 수술비(외래 및 당일입원)(경증상해 제외)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 1000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "100만원"
+          },
+          "payment_condition": "보험기간 중 상해의 치료를 직접적인 목적으로 병원 또는 의원에 외래로 방문하거나 당일입원하여 수술을 받은 경우 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "보험기간 중 상해의 치료를 직접적인 목적으로 병원 또는 의원에 외래로 방문하거나 당일입원하여 수술을 받은 경우 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "상해 1~5종 수술비(1종)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 300000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "30만원"
+          },
+          "payment_condition": "보험기간 중 상해의 치료를 직접적인 목적으로 약관에서 정한 1종 수술을 받은 경우 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "보험기간 중 상해의 치료를 직접적인 목적으로 약관에서 정한 1종 수술을 받은 경우 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "상해 1~5종 수술비(2종)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 500000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "50만원"
+          },
+          "payment_condition": "보험기간 중 상해의 치료를 직접적인 목적으로 약관에서 정한 2종 수술을 받은 경우 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "보험기간 중 상해의 치료를 직접적인 목적으로 약관에서 정한 2종 수술을 받은 경우 가입금액 지급",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": 5,
+      "title": "5쪽",
+      "avg_confidence": 100,
+      "coverages": [
+        {
+          "coverage_name": "[간편]상해 1~5종 수술비(3종)",
+          "amount": {
+            "per_time": 3000000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "300만원"
+          },
+          "payment_condition": "보험기간 중 상해의 치료를 직접적인 목적으로 약관에서 정한 3종 수술을 받은 경우 가입금액 지급(수술 1)",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "보험기간 중 상해의 치료를 직접적인 목적으로 약관에서 정한 3종 수술을 받은 경우 가입금액 지급(수술 1 30년납 349 회당) 300만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "[간편]상해 1~5종 수술비(4종)",
+          "amount": {
+            "per_time": 10000000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보험기간 중 상해의 치료를 직접적인 목적으로 약관에서 정한 4종 수술을 받은 경우 가입금액 지급(수술 1)",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "보험기간 중 상해의 치료를 직접적인 목적으로 약관에서 정한 4종 수술을 받은 경우 가입금액 지급(수술 1 30년납 350 회당) 1,000만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "[간편]상해 1~5종 수술비(5종)",
+          "amount": {
+            "per_time": 20000000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "2,000만원"
+          },
+          "payment_condition": "보험기간 중 상해의 치료를 직접적인 목적으로 약관에서 정한 5종 수술을 받은 경우 가입금액 지급(수술 1)",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "보험기간 중 상해의 치료를 직접적인 목적으로 약관에서 정한 5종 수술을 받은 경우 가입금액 지급(수술 1 30년납 351 회당) 2,000만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "[간편]질병 1~5종 수술비(1종)(1년50%)",
+          "amount": {
+            "per_time": 300000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "30만원"
+          },
+          "payment_condition": "보험기간 중 질병의 치료를 직접적인 목적으로 약관에서 정한 1종 수술을 받은 경우 가입금액 지급(수술 1)",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "50%",
+          "source_quote": "보험기간 중 질병의 치료를 직접적인 목적으로 약관에서 정한 1종 수술을 받은 경우 가입금액 지급(수술 1 352 회당) 30만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "[간편]질병 1~5종 수술비(2종)(1년50%)",
+          "amount": {
+            "per_time": 500000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "50만원"
+          },
+          "payment_condition": "보험기간 중 질병의 치료를 직접적인 목적으로 약관에서 정한 2종 수술을 받은 경우 가입금액 지급(수술 1)",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "50%",
+          "source_quote": "보험기간 중 질병의 치료를 직접적인 목적으로 약관에서 정한 2종 수술을 받은 경우 가입금액 지급(수술 1 353 회당) 50만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "[간편]질병 1~5종 수술비(3종)(1년50%)",
+          "amount": {
+            "per_time": 3000000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "300만원"
+          },
+          "payment_condition": "보험기간 중 질병의 치료를 직접적인 목적으로 약관에서 정한 3종 수술을 받은 경우 가입금액 지급(수술 1)",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "50%",
+          "source_quote": "보험기간 중 질병의 치료를 직접적인 목적으로 약관에서 정한 3종 수술을 받은 경우 가입금액 지급(수술 1 354 회당) 300만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "[간편]질병 1~5종 수술비(4종)(1년50%)",
+          "amount": {
+            "per_time": 10000000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보험기간 중 질병의 치료를 직접적인 목적으로 약관에서 정한 4종 수술을 받은 경우 가입금액 지급(수술 1)",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "50%",
+          "source_quote": "보험기간 중 질병의 치료를 직접적인 목적으로 약관에서 정한 4종 수술을 받은 경우 가입금액 지급(수술 1 355 회당) 1,000만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "[간편]질병 1~5종 수술비(5종)(1년50%)",
+          "amount": {
+            "per_time": 10000000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보험기간 중 질병의 치료를 직접적인 목적으로 약관에서 정한 5종 수술을 받은 경우 가입금액 지급(수술 1)",
+          "contract_type": "주계약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "50%",
+          "source_quote": "보험기간 중 질병의 치료를 직접적인 목적으로 약관에서 정한 5종 수술을 받은 경우 가입금액 지급(수술 1 356 회당) 1,000만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": 6,
+      "title": "6쪽",
+      "avg_confidence": 0,
+      "coverages": [],
+      "error": null
+    },
+    {
+      "number": 10,
+      "title": "10쪽",
+      "avg_confidence": 0,
+      "coverages": [],
+      "error": null
+    }
+  ]
+}

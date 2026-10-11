@@ -1,0 +1,467 @@
+{
+  "source": "박지선님 농협손보 건강할때굿플러스건강보험 수정.pdf",
+  "unit": "page",
+  "total_articles": 10,
+  "candidate_articles": 7,
+  "coverage_filtered_articles": 5,
+  "extracted_coverages": 15,
+  "results": [
+    {
+      "number": 2,
+      "title": "2쪽",
+      "avg_confidence": 0,
+      "coverages": [],
+      "error": null
+    },
+    {
+      "number": 3,
+      "title": "3쪽",
+      "avg_confidence": 0,
+      "coverages": [],
+      "error": null
+    },
+    {
+      "number": 4,
+      "title": "4쪽",
+      "avg_confidence": 0,
+      "coverages": [],
+      "error": null
+    },
+    {
+      "number": 5,
+      "title": "5쪽",
+      "avg_confidence": 70,
+      "coverages": [
+        {
+          "coverage_name": "암주요치료비Ⅱ(유사암제외)(항암약물치료(항암호르몬치료제외))(종합병원,연간1회한)(건강고지)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보장개시일 이후에 암(유사암제외)으로 진단 확정되고, 그 암의 치료를 직접적인 목적으로 종합병원에서 암주요치료Ⅱ를 받은 경우 연간 1회에 한하여 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "보장개시일 이후에 암(유사암제외)으로 진단 확정되고, 그 암의 치료를 직접적인 목적으로 종합병원에서 암주요치료Ⅱ(항암약물치료(항암호르몬치료제외))를 받은 경우 연간 1회에 한하여 가입금액 지급",
+          "confidence": 70,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": false,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암주요치료비Ⅱ(유사암제외)(항암호르몬약물치료)(종합병원,연간1회한)(건강고지)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 3000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "300만원"
+          },
+          "payment_condition": "보장개시일 이후에 암(유사암제외)으로 진단 확정되고, 그 암의 치료를 직접적인 목적으로 종합병원에서 암주요치료Ⅱ를 받은 경우 연간 1회에 한하여 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "보장개시일 이후에 암(유사암제외)으로 진단 확정되고, 그 암의 치료를 직접적인 목적으로 종합병원에서 암주요치료Ⅱ(유사암제외)(항암호르몬약물치료)를 받은 경우 연간 1회에 한하여 가입금액 지급",
+          "confidence": 70,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": false,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암주요치료비Ⅱ(중환자실입원)(종합병원,연간1회한)(건강고지)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보장개시일 이후에 암(유사암제외)으로 진단 확정되고, 그 암의 치료를 직접적인 목적으로 종합병원에서 암주요치료Ⅱ를 받은 경우 연간 1회에 한하여 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "입원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "보장개시일 이후에 암(유사암제외)으로 진단 확정되고, 그 암의 치료를 직접적인 목적으로 종합병원에서 암주요치료Ⅱ(중환자실입원)를 받은 경우 연간 1회에 한하여 가입금액 지급",
+          "confidence": 70,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": false,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "유사암주요치료비Ⅱ(종합병원,치료별연간1회한)(건강고지)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 3000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "300만원"
+          },
+          "payment_condition": "보험기간 중에 유사암으로 진단 확정되고, 그 유사암의 치료를 직접적인 목적으로 종합병원에서 암주요치료Ⅱ를 받은 경우 치료구분별로 각각 연간 1회에 한하여 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "50%",
+          "source_quote": "보험기간 중에 유사암(기타피부암, 갑상선암, 제자리암 또는 경계성종양)으로 진단 확정되고, 그 유사암의 치료를 직접적인 목적으로 종합병원에서 암주요치료Ⅱ(암수술, 항암방사선치료, 항암약물치료(항암호르몬치료제외), 항암호르몬약물치료, 중환자실입원)를 받은 경우 치료구분별로 각각 연간 1회에 한하여 가입금액 지급(단, 항암호르몬약물치료의 경우 가입금액의 50% 지급)",
+          "confidence": 70,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": false,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "하이클래스암주요치료비(종합병원,연간1회한)(건강고지)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보장개시일 이후에 암, 기타피부암 또는 갑상선암으로 진단 확정되고, 그 암, 기타피부암 또는 갑상선암의 직접적인 치료를 목적으로 종합병원에서 하이클래스 암주요치료를 받은 경우 연간 1회에 한하여 가입금액 지급",
+          "contract_type": "주계약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "보장개시일 이후에 암, 기타피부암 또는 갑상선암으로 진단 확정되고, 그 암, 기타피부암 또는 갑상선암의 직접적인 치료를 목적으로 종합병원에서 하이클래스 암주요치료(암수술, 항암방사선치료, 항암약물치료)를 받은 경우 연간 1회에 한하여 가입금액 지급",
+          "confidence": 70,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": false,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": 6,
+      "title": "6쪽",
+      "avg_confidence": 70,
+      "coverages": [
+        {
+          "coverage_name": "하이클래스항암약물치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "암, 기타피부암 또는 갑상선암으로 진단 확정되고, 그 암, 기타피부암 또는 갑상선암의 직접적인 치료를 목적으로 종합병원에서 하이클래스 항암약물치료를 받은 경우 연간 1회에 한하여 가입금액 지급",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "암, 기타피부암 또는 갑상선암으로 진단 확정되고, 그 암, 기타피부암 또는 갑상선암의 직접적인 치료를 목적으로 종합병원에서 하이클래스 항암약물치료를 받은 경우 연간 1회에 한하여 가입금액 지급",
+          "confidence": 70,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": false,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "항암방사선(중입자)치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 50000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "5,000만원"
+          },
+          "payment_condition": "암, 기타피부암 또는 갑상선암으로 진단 확정되고, 그 치료를 직접적인 목적으로 항암방사선(중입자) 치료를 받은 경우 최초 1회에 한하여 가입금액 지급",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "암, 기타피부암 또는 갑상선암으로 진단 확정되고, 그 치료를 직접적인 목적으로 항암방사선(중입자) 치료를 받은 경우 최초 1회에 한하여 가입금액 지급",
+          "confidence": 70,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": false,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "뇌혈관질환진단비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 30000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "3,000만원"
+          },
+          "payment_condition": "뇌혈관질환으로 진단 확정시 최초 1회에 한하여 가입금액 지급",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "뇌혈관질환으로 진단 확정시 최초 1회에 한하여 가입금액 지급",
+          "confidence": 70,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": false,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "허혈성심장질환진단비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 20000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "2,000만원"
+          },
+          "payment_condition": "허혈성심장질환으로 진단 확정되었을 때 최초 1회에 한하여 가입금액 지급",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "허혈성심장질환으로 진단 확정되었을 때 최초 1회에 한하여 가입금액 지급",
+          "confidence": 70,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": false,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "심혈관특정질환Ⅰ진단비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "심혈관특정질환Ⅰ로 진단 확정시 최초 1회에 한하여 가입금액 지급",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "심혈관특정질환Ⅰ로 진단 확정시 최초 1회에 한하여 가입금액 지급",
+          "confidence": 70,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": false,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "심근병증진단비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "심근병증으로 진단 확정시 최초 1회에 한하여 가입금액 지급",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "심근병증으로 진단 확정시 최초 1회에 한하여 가입금액 지급",
+          "confidence": 70,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": false,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "특정순환계질환(3~5종)주요치료비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "특정순환계질환(3~5종)으로 진단 확정되고, 그 특정순환계질환(3~5종)의 치료를 직접적인 목적으로 특정순환계질환치료(수술, 혈전용해치료, 종합병원 중환자실치료)를 받은 경우 연간 1회에 한하여 가입금액 지급",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "특정순환계질환(3~5종)으로 진단 확정되고, 그 특정순환계질환(3~5종)의 치료를 직접적인 목적으로 특정순환계질환치료(수술, 혈전용해치료, 종합병원 중환자실치료)를 받은 경우 연간 1회에 한하여 가입금액 지급",
+          "confidence": 70,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": false,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "뇌혈관질환수술비",
+          "amount": {
+            "per_time": 10000000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "뇌혈관질환의 치료를 직접적인 목적으로 수술을 받은 경우 수술 1회당 가입금액 지급",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "뇌혈관질환의 치료를 직접적인 목적으로 수술을 받은 경우 수술 1회당 가입금액 지급",
+          "confidence": 70,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": false,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "허혈성심장질환수술비",
+          "amount": {
+            "per_time": 10000000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "허혈성심장질환의 치료를 직접적인 목적으로 수술을 받은 경우 수술 1회당 가입금액 지급",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "허혈성심장질환의 치료를 직접적인 목적으로 수술을 받은 경우 수술 1회당 가입금액 지급",
+          "confidence": 70,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": false,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "주요심장염증질환진단비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 5000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "500만원"
+          },
+          "payment_condition": "주요심장염증질환으로 진단 확정시 최초 1회에 한하여 가입금액 지급",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "주요심장염증질환으로 진단 확정시 최초 1회에 한하여 가입금액 지급",
+          "confidence": 70,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": false,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    }
+  ]
+}

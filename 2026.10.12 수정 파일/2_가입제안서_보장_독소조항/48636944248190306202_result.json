@@ -1,0 +1,2531 @@
+{
+  "source": "48636944248190306202.pdf",
+  "unit": "page",
+  "total_articles": 26,
+  "candidate_articles": 19,
+  "coverage_filtered_articles": 12,
+  "extracted_coverages": 86,
+  "results": [
+    {
+      "number": 10,
+      "title": "10쪽",
+      "avg_confidence": 0,
+      "coverages": [],
+      "error": null
+    },
+    {
+      "number": 11,
+      "title": "11쪽",
+      "avg_confidence": 100,
+      "coverages": [
+        {
+          "coverage_name": "암통합치료(검사)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 50000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "5만원"
+          },
+          "payment_condition": "급여 암 내시경 검사(보험연도 기준 연간 1회한)",
+          "contract_type": "특약",
+          "coverage_type": "통원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[암 통합치료(검사)] 급여 암 내시경 검사(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암통합치료(검사)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 100000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "10만원"
+          },
+          "payment_condition": "급여 암 초음파검사(보험연도 기준 연간 1회한)",
+          "contract_type": "특약",
+          "coverage_type": "통원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[암 통합치료(검사)] 급여 암 초음파검사(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암통합치료(검사)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 200000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "20만원"
+          },
+          "payment_condition": "급여 암 특정생검조직병리검사(보험연도 기준 연간 1회한)",
+          "contract_type": "특약",
+          "coverage_type": "통원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[암 통합치료(검사)] 급여 암 특정생검조직병리검사(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암통합치료(검사)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 1000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "100만원"
+          },
+          "payment_condition": "급여 암 특정NGS유전자패널검사(비유전성)(보험연도 기준 연간 1회한)",
+          "contract_type": "특약",
+          "coverage_type": "통원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[암 통합치료(검사)] 급여 암 특정NGS유전자패널검사(비유전성)(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암통합치료(주요치료)",
+          "amount": {
+            "per_time": 10000000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "「암통합치료보장개시일」 이후 '대상 질병'으로 진단 확정되고, 그 질병의 치료를 직접적인 목적으로 '상급종합병원 혹은 종합병원'에서 '암 통합치료(주요치료)'를 받은 경우",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[암 통합치료(주요치료)] 암 수술(수술 1회당)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암통합치료(주요치료)",
+          "amount": {
+            "per_time": 2000000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "200만원"
+          },
+          "payment_condition": "급여 갑상선암, 기타피부암, 제자리암 및 경계성종양 수술(수술 1회당)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[암 통합치료(주요치료)] 갑상선암, 기타피부암, 제자리암 및 경계성종양 수술(수술 1회당)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": 12,
+      "title": "12쪽",
+      "avg_confidence": 97,
+      "coverages": [
+        {
+          "coverage_name": "암통합치료(주요치료) 항암약물치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 2000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "200만원"
+          },
+          "payment_condition": "보험연도 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[암 통합치료(주요치료)] 갑상선암 및 기타피부암 항암약물치료(호르몬치료 제외 200만원)(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암통합치료비(종합병원이상)보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보험연도 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[암 통합치료(주요치료)]암통합치료비(종합병원이상)보험금",
+          "confidence": 75,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": false,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암통합치료(주요치료) 특정항암호르몬약물허가치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 1000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "100만원"
+          },
+          "payment_condition": "보험연도 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[암 통합치료(주요치료)]특정항암호르몬약물허가치료(보험연도 기준 연간 1회한 100만원)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암 특정통증완화치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보험연도 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[암 통합치료(주요치료)] 급여 암 특정통증완화치료(보험연도 기준 연간1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암 통합치료(전액본인부담(비급여포함) 특정치료) 다빈치ㆍ레보아이로봇수술",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보험연도 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[암 통합치료(전액본인부담(비급여포함) 특정치료]전액본인부담(비급여포함)암( 1,000만원 특정암제외)다빈치ㆍ레보아이로봇수술(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암 통합치료(전액본인부담(비급여포함) 특정치료) 정항암약물허가치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 30000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "3,000만원"
+          },
+          "payment_condition": "보험연도 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[암 통합치료(전액본인부담(비급여포함) 특정치료]전액본인부담(비급여포함) 특 3,000만원 정항암약물허가치료(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암 통합치료(전액본인부담(비급여포함) 특정치료) 면역항암약물허가치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 30000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "3,000만원"
+          },
+          "payment_condition": "보험연도 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[암 통합치료(전액본인부담(비급여포함) 특정치료]전액본인부담(비급여포함) 항 3,000만원 면역항암약물허가치료(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암 통합치료(전액본인부담(비급여포함) 특정치료) 양성자방사선치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 30000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "3,000만원"
+          },
+          "payment_condition": "보험연도 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[암 통합치료(전액본인부담(비급여포함) 특정치료]전액본인부담(비급여포함) 항 3,000만원 양성자방사선치료(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암 통합치료(재활치료) 암 재활치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 20000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "2만원"
+          },
+          "payment_condition": "1일 1회한, 보험연도 기준 연간20회한",
+          "contract_type": "특약",
+          "coverage_type": "통원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[암 통합치료(재활치료)]급여 암 재활치료 (1일 1회한, 보험연도 기준 연간20회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": 13,
+      "title": "13쪽",
+      "avg_confidence": 87,
+      "coverages": [
+        {
+          "coverage_name": "전액본인부담(비급여포함)암 통합치료(주요치료)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "「암통합치료보장개시일」 이후 \"대상 질병\"으로 진단 확정되고, 그 질병의 치료를 직접적인 목적으로 \"상급종합병원 혹은 종합병원\"에서 \"전액본인부담(비급여포함) 암 통합치료(주요치료)\"를 받은 경우",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "전액본인부담",
+          "source_quote": "[전액본인부담(비급여포함)암 통합치료(주요치료)] 1,000만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "전액본인부담(비급여포함)암수술(수술 1회당)",
+          "amount": {
+            "per_time": 2000000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "200만원"
+          },
+          "payment_condition": "[대상 질병] 갑상선암, 기타피부암, 제자리암 및 경계성종양",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "전액본인부담",
+          "source_quote": "[전액본인부담(비급여포함)암수술(수술 1회당)] 200만원",
+          "confidence": 75,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": false,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "전액본인부담(비급여포함)암 항암방사선치료(보험연도 기준 연간 1회한)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "[대상 질병] 암",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "전액본인부담",
+          "source_quote": "[전액본인부담(비급여포함)암 항암방사선치료(보험연도 기준 연간 1회한)] 1,000만원",
+          "confidence": 80,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "전액본인부담(비급여포함)암 항암약물치료(호르몬치료 제외)(보험연도 기준 연간 1회한)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 2000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "200만원"
+          },
+          "payment_condition": "[대상 질병] 갑상선암 및 기타피부암",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "전액본인부담",
+          "source_quote": "[전액본인부담(비급여포함)암 항암약물치료(호르몬치료 제외)(보험연도 기준 연간 1회한)] 200만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "전액본인부담(비급여포함)암 통합치료(특정치료)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "「암통합치료보장개시일」 이후 \"대상 질병\"으로 진단 확정되고, 그 질병의 치료를 직접적인 목적으로 \"상급종합병원 혹은 종합병원\"에서 \"전액본인부담(비급여포함) 암 통합치료(특정치료)\"를 받은 경우",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "전액본인부담",
+          "source_quote": "[전액본인부담(비급여포함)암 통합치료(특정치료)] 1,000만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "전액본인부담(비급여포함) 다빈치ㆍ레보아이로봇수술(보험연도 기준 연간 1회한)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": null
+          },
+          "payment_condition": "[대상 질병] 암(특정암 제외)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "전액본인부담",
+          "source_quote": "[전액본인부담(비급여포함) 암(특정암제외) 다빈치ㆍ레보아이로봇수술(보험연도 기준 연간 1회한)]",
+          "confidence": 65,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": null,
+            "payment_condition": false,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": 14,
+      "title": "14쪽",
+      "avg_confidence": 82,
+      "coverages": [
+        {
+          "coverage_name": "전액본인부담(비급여포함)암통합치료(종합병원이상)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 2000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "200만원"
+          },
+          "payment_condition": "특정암",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "전액본인부담",
+          "source_quote": "전액본인부담(비급여포함)암통합치료(종합병원이상)특약AT(무배당,무해약환급금형)_연간1억원한도",
+          "confidence": 55,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": false,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "전액본인부담(비급여포함)특정암 다빈치ㆍ레보아이로봇수술",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 30000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "3,000만원"
+          },
+          "payment_condition": "암, 갑상선암 및 기타피부암",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "전액본인부담",
+          "source_quote": "전액본인부담(비급여포함)특정암 다빈치ㆍ레보아이로봇수술(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "전액본인부담(비급여포함)표적항암약물허가치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": null
+          },
+          "payment_condition": "암, 갑상선암 및 기타피부암",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "전액본인부담",
+          "source_quote": "전액본인부담(비급여포함)표적항암약물허가치료(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "전액본인부담(비급여포함)특정면역항암약물허가치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 30000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "3,000만원"
+          },
+          "payment_condition": "암, 갑상선암 및 기타피부암",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "전액본인부담",
+          "source_quote": "전액본인부담(비급여포함)특정면역항암약물허가치료(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "전액본인부담(비급여포함)항암양성자방사선치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "null"
+          },
+          "payment_condition": "보험연도 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "전액본인부담",
+          "source_quote": "전액본인부담(비급여포함)항암양성자방사선치료(보험연도 기준 연간 1회한)",
+          "confidence": 70,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": false,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "항암중입자방사선치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "5,000만원"
+          },
+          "payment_condition": "암으로 진단 확정",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "50%",
+          "source_quote": "항암중입자방사선치료보험금",
+          "confidence": 55,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": false,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "뇌혈관질환진단보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "2,000만원"
+          },
+          "payment_condition": "뇌혈관질환으로 진단 확정시",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "50%",
+          "source_quote": "뇌혈관질환진단보험금",
+          "confidence": 80,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "허혈심장질환진단보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "2,000만원"
+          },
+          "payment_condition": "허혈심장질환으로 진단 확정시",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "50%",
+          "source_quote": "허혈심장질환진단보험금",
+          "confidence": 80,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "주요순환계질환 통합치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": null
+          },
+          "payment_condition": "의사의 주요순환계질환의 진단 및 치료를 위한 필요 소견",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "전액본인부담",
+          "source_quote": "주요순환계질환 통합치료(검사)",
+          "confidence": 80,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": false,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "특정 자기공명영상진단(MRI) 검사",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 50000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "5만원"
+          },
+          "payment_condition": "보험연도 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "통원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "전액본인부담",
+          "source_quote": "특정 자기공명영상진단(MRI) 검사(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": 15,
+      "title": "15쪽",
+      "avg_confidence": 98,
+      "coverages": [
+        {
+          "coverage_name": "주요순환계질환 통합치료(검사) 양전자방출단층촬영(PET) 검사",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 50000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "5만원"
+          },
+          "payment_condition": "주요순환계질환 통합치료 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[주요순환계질환 통합치료(검사)] 급여 양전자방출단층촬영(PET) 검사(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "주요순환계질환 통합치료(검사) 일반 전산화단층영상진단(CT) 검사",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 100000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "10만원"
+          },
+          "payment_condition": "주요순환계질환 통합치료 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[주요순환계질환 통합치료(검사)] 급여 일반 전산화단층영상진단(CT) 검사(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "주요순환계질환 통합치료(주요치료) 수술",
+          "amount": {
+            "per_time": 25000000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "2,500만원"
+          },
+          "payment_condition": "주요순환계질환으로 진단 확정되고, 그 질병의 치료를 직접적인 목적으로 상급 종합병원 혹은 종합병원에서 주요순환계질환 통합치료(주요치료)를 받은 경우",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[주요순환계질환 통합치료(주요치료)] 수술(혈전제거술 및 혈전용해치료 제외)(수술 1회당)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "주요순환계질환 통합치료(주요치료) 혈전용해치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 30000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "3,000만원"
+          },
+          "payment_condition": "보험연도 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[주요순환계질환 통합치료(주요치료)] 혈전용해치료(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "주요순환계질환 통합치료(주요치료) 혈전제거술",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 30000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "3,000만원"
+          },
+          "payment_condition": "보험연도 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[주요순환계질환 통합치료(주요치료)] 급여 혈전제거술(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "주요순환계질환 통합치료(주요치료) 중환자실 치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "보험연도 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[주요순환계질환 통합치료(주요치료)] 중환자실 치료(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "주요순환계질환 통합치료(주요치료) 지속적신대체요법(CRRT)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 5000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "500만원"
+          },
+          "payment_condition": "보험연도 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[주요순환계질환 통합치료(주요치료)] 급여 지속적신대체요법(CRRT)(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "주요순환계질환 통합치료(주요치료) 인공호흡기치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 2000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "200만원"
+          },
+          "payment_condition": "보험연도 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[주요순환계질환 통합치료(주요치료)] 급여 인공호흡기치료(12시간초과)(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "주요순환계질환 통합치료(주요치료) 저체온요법치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 1000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "100만원"
+          },
+          "payment_condition": "보험연도 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[주요순환계질환 통합치료(주요치료)] 급여 저체온요법치료(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "주요순환계질환 통합치료(주요치료) 부분체외순환치료",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 20000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "2,000만원"
+          },
+          "payment_condition": "보험연도 기준 연간 1회한",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[주요순환계질환 통합치료(주요치료)] 급여 부분체외순환치료(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "주요순환계질환 통합치료(재활치료)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 20000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "2만원"
+          },
+          "payment_condition": "1회한, 보험연도 기준 연간 15회한",
+          "contract_type": "특약",
+          "coverage_type": "통원",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "[주요순환계질환 통합치료(재활치료)] 비(종합병원이상)보험금",
+          "confidence": 75,
+          "level": "보통",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": false,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": 16,
+      "title": "16쪽",
+      "avg_confidence": 100,
+      "coverages": [
+        {
+          "coverage_name": "주요순환계질환통합치료(종합병원이상)특약AT",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 100000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": true,
+            "raw": "1억원"
+          },
+          "payment_condition": "보험연도 기준 연간 총 지급액 한도는 보험가입금액으로 합니다. 다만, 연간 주요순환계질환 통합치료비(종합병원이상)보험금 총액이 보험연도 기준 연간 총 지급액 한도를 초과하는 경우에는 초과분에 해당하는 금액은 지급하지 않습니다.",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "주요순환계질환통합치료(종합병원이상)특약AT(무배당,무해약환급금형)_연간1억원한도",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암(특정암및소액암포함)다빈치ㆍ레보아이로봇수술보장특약A10",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "500만원"
+          },
+          "payment_condition": "암보장개시일 이후 '암', '전립선암' 또는 '갑상선암'으로 진단 확정되거나 '제자리암', '경계성종양' 또는 '특정양성신생물'로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 '다빈치ㆍ레보아이로봇 수술'을 받았을 경우(최초 1회한)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "암(특정암및소액암포함)다빈치ㆍ레보아이로봇수술보장특약A10(갱신형,무배당) 10년갱신 10년 (최대 100세) 암(특정암및소액암포함)다 '암보장개시일' 이후 '암', '전립선암' 또는 '갑상선암'으로 진단 확정되거나 '제자리암', '경계성종양' 또는 '특정양성신생물'로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 '다빈치ㆍ레보아이로봇 수술'을 받았을 경우(최초 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "암(특정암제외)다빈치ㆍ레보아이로봇수술보장특약A10",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "500만원"
+          },
+          "payment_condition": "암보장개시일 이후 '암('전립선암' 및 '갑상선암' 제외)'으로 진단 확정되고, 그 암의 직접적인 치료를 목적으로 '다빈치ㆍ레보아이로봇 수술'을 받았을 경우(최초 1회한)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "암(특정암제외)다빈치ㆍ레보아이로봇수술보장특약A10(갱신형,무배당) 10년갱신 10년 (최대 100세) '암보장개시일' 이후 '암('전립선암' 및 '갑상선암' 제외)'으로 진단 확정되고, 그 암의 직접적인 치료를 목적으로 '다빈치ㆍ레보아이로봇 수술'을 받았을 경우(최초 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "5대주요기관질병 관혈 수술보험금",
+          "amount": {
+            "per_time": 15000000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,500만원"
+          },
+          "payment_condition": "'5대주요기관질병'으로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 관혈 수술을 받은 경우(수술 1회당)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "5대주요기관질병 관혈 수술보험금 1,500만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "5대주요기관질병 비관혈 수술보험금",
+          "amount": {
+            "per_time": 5000000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "500만원"
+          },
+          "payment_condition": "'5대주요기관질병'으로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 내시경수술, 카테터수술, 신의료 수술을 받은 경우(수술 1회당)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "5대주요기관질병 비관혈 수술보험금 500만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "17대 특정질병 수술보험금",
+          "amount": {
+            "per_time": 2500000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "250만원"
+          },
+          "payment_condition": "'17대특정질병'으로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(수술 1회당)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "17대 특정질병 수술보험금 250만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "15대 특정질병 수술보험금",
+          "amount": {
+            "per_time": 2500000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "250만원"
+          },
+          "payment_condition": "'15대특정질병'으로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(수술 1회당)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "15대 특정질병 수술보험금 250만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "25대 특정질병 수술보험금",
+          "amount": {
+            "per_time": 500000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "50만원"
+          },
+          "payment_condition": "'25대특정질병'으로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(수술 1회당)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "25대 특정질병 수술보험금 50만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "22대 특정질병 수술보험금",
+          "amount": {
+            "per_time": 150000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "15만원"
+          },
+          "payment_condition": "'22대특정질병'으로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(수술 1회당)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "22대 특정질병 수술보험금 15만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "49대 특정질병 수술보험금",
+          "amount": {
+            "per_time": 100000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "10만원"
+          },
+          "payment_condition": "'49대특정질병'으로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(수술 1회당)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "49대 특정질병 수술보험금 10만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "20대 특정다빈도 질병 수술보험금",
+          "amount": {
+            "per_time": 100000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "10만원"
+          },
+          "payment_condition": "'20대특정다빈도질병'으로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(수술 1회당)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "20대 특정다빈도 질병 수술보험금 10만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "1종 재해수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "20만원"
+          },
+          "payment_condition": "재해로 인하여 그 직접적인 치료를 목적으로 '1~5종 수술 분류표'에서 정한 1종 수술을 받았을 경우(동일한 재해사고당 1회)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "1종 재해수술보험금 20만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "1종 질병수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 200000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "20만원"
+          },
+          "payment_condition": "재해 이외의 원인으로 인하여 그 직접적인 치료를 목적으로 '1~5종 수술 분류표'에서 정한 1종 수술을 받았을 경우(동일한 질병당 보험연도 기준 연간 1회)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "1종 질병수술보험금 20만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "2종 재해수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "30만원"
+          },
+          "payment_condition": "재해로 인하여 그 직접적인 치료를 목적으로 '1~5종 수술 분류표'에서 정한 2종 수술을 받았을 경우(동일한 재해사고당 1회)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "2종 재해수술보험금 30만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "2종 질병수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 300000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "30만원"
+          },
+          "payment_condition": "재해 이외의 원인으로 인하여 그 직접적인 치료를 목적으로 '1~5종 수술 분류표'에서 정한 2종 수술을 받았을 경우(동일한 질병당 보험연도 기준 연간 1회)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "2종 질병수술보험금 30만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "3종 재해수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "300만원"
+          },
+          "payment_condition": "재해로 인하여 그 직접적인 치료를 목적으로 '1~5종 수술 분류표'에서 정한 3종 수술을 받았을 경우(동일한 재해사고당 1회)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "3종 재해수술보험금 300만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "3종 질병수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 3000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "300만원"
+          },
+          "payment_condition": "재해 이외의 원인으로 인하여 그 직접적인 치료를 목적으로 '1~5종 수술 분류표'에서 정한 3종 수술을 받았을 경우(동일한 질병당 보험연도 기준 연간 1회)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "3종 질병수술보험금 300만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": 17,
+      "title": "17쪽",
+      "avg_confidence": 100,
+      "coverages": [
+        {
+          "coverage_name": "4종 재해수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "재해로 인하여 그 직접적인 치료를 목적으로 「1~5종 수술 분류표」에서 정한 4종 수술을 받았을 경우(동일한 재해사고당 1회)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "4종 재해수술보험금 1,000만원 수술을 받았을 경우(동일한 재해사고당 1회)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "4종 질병수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "재해 이외의 원인으로 인하여 그 직접적인 치료를 목적으로 「1~5종 수술 분류표」에서 정한 4종 수술을 받았을 경우(동일한 질병당 보험연도 기준 연간 1회)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "4종 질병수술보험금 1,000만원에서 정한 4종 수술을 받았을 경우(동일한 질병당 보험연도 기준 연간 1회)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "5종 재해수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "재해로 인하여 그 직접적인 치료를 목적으로 「1~5종 수술 분류표」에서 정한 5종 수술을 받았을 경우(동일한 재해사고당 1회)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "5종 재해수술보험금 1,000만원 수술을 받았을 경우(동일한 재해사고당 1회)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "5종 질병수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 10000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "1,000만원"
+          },
+          "payment_condition": "재해 이외의 원인으로 인하여 그 직접적인 치료를 목적으로 「1~5종 수술 분류표」에서 정한 5종 수술을 받았을 경우(동일한 질병당 보험연도 기준 연간 1회)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "5종 질병수술보험금 1,000만원에서 정한 5종 수술을 받았을 경우(동일한 질병당 보험연도 기준 연간 1회)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 200000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "20만원"
+          },
+          "payment_condition": "수술 보장 대상 질병 및 재해의 직접적인 치료를 목적으로 수술을 받았을 경우 (보험연도 기준 질병/재해 각 연간 1회한)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "50%",
+          "source_quote": "수술보험금 20만원 보험연도 기준 질병/재해 각 연간 1회한",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "대장의 양성신생물 수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 200000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "20만원"
+          },
+          "payment_condition": "대장의 양성신생물로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(보험연도 기준 연간 1회한)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "대장의 양성신생물 수술보 20만원 보험연도 기준 연간 1회한",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "식도ㆍ결장ㆍ항문의 양성신생물 수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 200000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "20만원"
+          },
+          "payment_condition": "식도, 결장 및 항문의 양성신생물로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(보험연도 기준 연간 1회한)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "식도ㆍ결장ㆍ항문의 양성신생물 수술보험금 20만원 보험연도 기준 연간 1회한",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "위ㆍ십이지장의 양성신생물 수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 600000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "60만원"
+          },
+          "payment_condition": "위 및 십이지장의 양성신생물로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(보험연도 기준 연간 1회한)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "위ㆍ십이지장의 양성신생물로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "여성 및 남성의 특정양성신생물 수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 1000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "100만원"
+          },
+          "payment_condition": "여성 및 남성의 특정양성신생물로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(보험연도 기준 연간 1회한)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "여성 및 남성의 특정양성신생물로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "갑상선ㆍ두경부의 양성신생물 수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 2000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "200만원"
+          },
+          "payment_condition": "갑상선ㆍ두경부의 양성신생물로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(보험연도 기준 연간 1회한)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "갑상선ㆍ두경부의 양성신생물로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "특정 기타부위의 양성신생물 수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 1000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "100만원"
+          },
+          "payment_condition": "특정 기타부위의 양성신생물로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(보험연도 기준 연간 1회한)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "특정 기타부위의 양성신생물로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "간ㆍ폐의 양성신생물 수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 20000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "2,000만원"
+          },
+          "payment_condition": "간 및 폐의 양성신생물로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(보험연도 기준 연간 1회한)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "간 및 폐의 양성신생물로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "뇌ㆍ심장 양성신생물 수술보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 20000000,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "2,000만원"
+          },
+          "payment_condition": "뇌 및 심장의 양성신생물로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(보험연도 기준 연간 1회한)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "뇌 및 심장의 양성신생물로 진단 확정되고, 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우(보험연도 기준 연간 1회한)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "2인실 입원 보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 50000,
+            "deductible": null,
+            "visit_limit": {
+              "value": 30,
+              "unit": "일"
+            },
+            "is_shared_limit": false,
+            "raw": "5만원"
+          },
+          "payment_condition": "질병 또는 재해로 인하여 그 직접적인 치료를 목적으로 '상급종합병원 혹은 종합병원'의 2인실에 1일이상 계속 입원시 입원일수 1일당(1회 입원당 30일한도)",
+          "contract_type": "특약",
+          "coverage_type": "입원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "2인실 입원(종합병원이상) 질병 또는 재해로 인하여 그 직접적인 치료를 목적으로 '상급종합병원 혹은 종합병원'의 2인실에 1일이상 계속 입원시 입원일수 1일당(1회 입원당 30일한도)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "3인실 입원 보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 50000,
+            "deductible": null,
+            "visit_limit": {
+              "value": 30,
+              "unit": "일"
+            },
+            "is_shared_limit": false,
+            "raw": "5만원"
+          },
+          "payment_condition": "질병 또는 재해로 인하여 그 직접적인 치료를 목적으로 '상급종합병원 혹은 종합병원'의 3인실에 1일이상 계속 입원시 입원일수 1일당(1회 입원당 30일한도)",
+          "contract_type": "특약",
+          "coverage_type": "입원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "3인실 입원(종합병원이상) 질병 또는 재해로 인하여 그 직접적인 치료를 목적으로 '상급종합병원 혹은 종합병원'의 3인실에 1일이상 계속 입원시 입원일수 1일당(1회 입원당 30일한도)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": 18,
+      "title": "18쪽",
+      "avg_confidence": 100,
+      "coverages": [
+        {
+          "coverage_name": "2인실 입원(상급종합병원)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 50000,
+            "deductible": null,
+            "visit_limit": {
+              "value": 30,
+              "unit": "일"
+            },
+            "is_shared_limit": false,
+            "raw": "5만원"
+          },
+          "payment_condition": "1일이상 계속 입원시 입원일수 1일당(1회 입원당 30일한도)",
+          "contract_type": "특약",
+          "coverage_type": "입원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "2인실 입원(상급종합병원) 질병 또는 재해로 인하여 그 직접적인 치료를 목적으로 \"상급종합병원\"의 2인실 1일당 5만원 보험금 에 1일이상 계속 입원시 입원일수 1일당(1회 입원당 30일한도)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "3인실 입원(상급종합병원)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 50000,
+            "deductible": null,
+            "visit_limit": {
+              "value": 30,
+              "unit": "일"
+            },
+            "is_shared_limit": false,
+            "raw": "5만원"
+          },
+          "payment_condition": "1일이상 계속 입원시 입원일수 1일당(1회 입원당 30일한도)",
+          "contract_type": "특약",
+          "coverage_type": "입원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "3인실 입원(상급종합병원) 질병 또는 재해로 인하여 그 직접적인 치료를 목적으로 \"상급종합병원\"의 3인실 1일당 5만원 보험금 에 1일이상 계속 입원시 입원일수 1일당(1회 입원당 30일한도)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "3대질병입원간병인사용",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 80000,
+            "deductible": null,
+            "visit_limit": {
+              "value": 180,
+              "unit": "일"
+            },
+            "is_shared_limit": false,
+            "raw": "8만원"
+          },
+          "payment_condition": "1일 이상 계속하여 「상급종합병원 혹은 종합병원」에 입원하며 간병인을 사용하여 실질적으로 간병서비스를 이용한 경우(1일당 8시간이상 간병인 사용, 1회 입원당 사용일수 180일 한도)",
+          "contract_type": "특약",
+          "coverage_type": "입원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "3대질병입원간병인사용(180일한도,종합병원이상)특약AT(무배당) 100세만기 20년납 「암보장개시일 이후에 \"암\" 또는 보장개시일 이후에 \"기타피부암, 갑상선암, 비침습 방광암,대장점막내암, 뇌혈관질환, 허혈심장질환\" 」으로 진단 확정되고 그 질병의 직접적인 치료를 목적으로 1일 이상 계속하여 「상급종합병원 혹은 종합병원 8만원 696원 여금(종합병원이상)」에 입원하며 간병인을 사용하여 실질적으로 간병서비스를 이용한 경우(1일당 8시간이상 간병인 사용, 1회 입원당 사용일수 180일 한도)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "입원간호간병통합서비스보장(요양병원제외)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 70000,
+            "deductible": null,
+            "visit_limit": {
+              "value": 180,
+              "unit": "일"
+            },
+            "is_shared_limit": true,
+            "raw": "7만원"
+          },
+          "payment_condition": "1일 이상 계속하여 병원(단, 요양병원 제외)에 입원하며 간호ㆍ간병통합서비스를 사용하였을 때 간호ㆍ간병통합서비스 사용일수 1일당(1회 입원당 사용일수 180일 한도)",
+          "contract_type": "특약",
+          "coverage_type": "입원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "입원간호간병통합서비스보장(180일한도,요양병원제외)특약AT(무배당,무해약환급금형) 100세만기 20년납 질병 또는 재해로 인하여 그 직접적인 치료를 목적으로 1일 이상 계속하여 병원(단, 요양병원 제외)에 입원하며 간호ㆍ간병통합서비스를 사용하였을 때 간호ㆍ간병통합서비스 사용일수 1일당(1회 입원당 사용일수 180일 한도)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "입원간호간병통합서비스보장(181일이상,요양/정신/한방병원제외)",
+          "amount": {
+            "per_time": null,
+            "annual_limit": 70000,
+            "deductible": null,
+            "visit_limit": {
+              "value": 185,
+              "unit": "일"
+            },
+            "is_shared_limit": true,
+            "raw": "7만원"
+          },
+          "payment_condition": "181일 이상 계속하여 병원(단, 요양,정신,한방병원 제외)에 입원하며 간호ㆍ간병통합서비스를 사용하였을 때 180일을 초과한 간호ㆍ간병통합서비스 사용일수 1일당(1회 입원당 사용일수 185일 한도)",
+          "contract_type": "특약",
+          "coverage_type": "입원",
+          "benefit_type": "급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "입원간호간병통합서비스보장(181일이상,요양/정신/한방병원제외)특약A(무배당) 100세만기 20년납 질병 또는 재해로 인하여 그 직접적인 치료를 목적으로 181일 이상 계속하여 병원(단, 요양,정신,한방병원 제외)에 입원하며 간호ㆍ간병통합서비스를 사용하였을 때 180일을 초과한 간호ㆍ간병통합서비스 사용일수 1일당(1회 입원당 사용일수 185일 한도)",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "재해추상골절(치아파절제외)ㆍ깁스(부목제외)치료비",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "300만원"
+          },
+          "payment_condition": "재해로 인하여 두부 또는 안면부에 \"현저한 추상\"을 남겼을 때",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "재해추상골절(치아파절제외)ㆍ깁스(부목제외)치료비특약A(무배당,무해약환급금형) 100세만기 20년납 재해로 인하여 두부 또는 안면부에 \"현저한 추상\"을 남겼을 때 300만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "재해성형보험금",
+          "amount": {
+            "per_time": null,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "200만원"
+          },
+          "payment_condition": "재해로 인하여 두부 또는 안면부에 \"추상\"을 남겼을 때",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "재해로 인하여 두부 또는 안면부에 \"추상\"을 남겼을 때 200만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "재해골절진단보험금",
+          "amount": {
+            "per_time": 300000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "30만원"
+          },
+          "payment_condition": "재해로 인하여 \"재해골절\" 상태가 되었을 때(치아의 파절 제외)(재해골절 발생 1회당)",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "재해로 인하여 \"재해골절\" 상태가 되었을 때(치아의 파절 제외)(재해골절 발생 1회당) 30만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "5대재해골절진단보험금",
+          "amount": {
+            "per_time": 700000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "70만원"
+          },
+          "payment_condition": "재해로 인하여 \"5대재해골절\" 상태가 되었을 때(치아의 파절 및 비골의 골절 제외)(5대재해골절 발생 1회당)",
+          "contract_type": "특약",
+          "coverage_type": "불명",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "재해로 인하여 \"5대재해골절\" 상태가 되었을 때(치아의 파절 및 비골의 골절 제외)(5대재해골절 발생 1회당) 70만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "재해골절수술보험금",
+          "amount": {
+            "per_time": 500000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "50만원"
+          },
+          "payment_condition": "재해로 인하여 \"재해골절(치아의 파절 제외)\" 상태가 되고, \"재해골절(치아의 파절 제외)\"의 직접적인 치료를 목적으로 \"재해골절수술\"을 받은 경우 (수술 1회당)(보험연도 기준 연간 3회한)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "재해로 인하여 \"재해골절(치아의 파절 제외)\" 상태가 되고, \"재해골절(치아의 파절 제외)\"의 직접적인 치료를 목적으로 \"재해골절수술\"을 받은 경우 (수술 1회당)(보험연도 기준 연간 3회한) 50만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "깁스(부목제외)치료보험금",
+          "amount": {
+            "per_time": 100000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "10만원"
+          },
+          "payment_condition": "재해 또는 재해 이외의 원인으로 \"깁스(Cast)치료\"를 받은 경우(깁스치료1회당)",
+          "contract_type": "특약",
+          "coverage_type": "수술",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "재해 또는 재해 이외의 원인으로 \"깁스(Cast)치료\"를 받은 경우(깁스치료1회당) ※ 단, 부목치료(Splint Cast) 제외 깁스(부목제외)치료보험금 10만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        },
+        {
+          "coverage_name": "응급실내원(응급환자)",
+          "amount": {
+            "per_time": 40000,
+            "annual_limit": null,
+            "deductible": null,
+            "visit_limit": null,
+            "is_shared_limit": false,
+            "raw": "4만원"
+          },
+          "payment_condition": "기타 응급환자 응급실내원보험 \"응급실\"에 내원하여 \"응급환자\"로서 진료를 받는 경우(응급실 내원 1회당)",
+          "contract_type": "특약",
+          "coverage_type": "통원",
+          "benefit_type": "비급여",
+          "self_payment_ratio": "없음",
+          "source_quote": "응급실내원(응급환자)특약AT(무배당,무해약환급금형) 100세만기 20년납 기타 응급환자 응급실내원보험 \"응급실\"에 내원하여 \"응급환자\"로서 진료를 받는 경우(응급실 내원 1회당) 1회당 4만원",
+          "confidence": 100,
+          "level": "높음",
+          "checks": {
+            "coverage_name": true,
+            "amount": true,
+            "payment_condition": true,
+            "source_quote": true,
+            "contract_type_valid": true,
+            "coverage_type_valid": true,
+            "benefit_type_valid": true
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": 19,
+      "title": "19쪽",
+      "avg_confidence": 0,
+      "coverages": [],
+      "error": null
+    },
+    {
+      "number": 21,
+      "title": "21쪽",
+      "avg_confidence": 0,
+      "coverages": [],
+      "error": null
+    },
+    {
+      "number": 26,
+      "title": "26쪽",
+      "avg_confidence": 0,
+      "coverages": [],
+      "error": null
+    }
+  ]
+}

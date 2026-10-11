@@ -1,0 +1,364 @@
+{
+  "source": "박지선님 (흥국화재)_1774703602438.pdf",
+  "unit": "page",
+  "total_articles": 22,
+  "toxic_summary": {
+    "total_toxic_clauses": 33,
+    "affected_articles": 14,
+    "with_exception": 4,
+    "excluded_short_quote": 0,
+    "excluded_not_in_source": 6,
+    "deduped": 0,
+    "total_excluded": 6
+  },
+  "toxic_clauses": [
+    {
+      "article_number": 2,
+      "article_title": "2쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "암 진단에 대한 면책기간 설정",
+          "reason": "계약일 이후 90일의 면책기간 동안 발생한 암 진단에 대해 보험금을 지급하지 않음",
+          "severity": "높음",
+          "source_quote": "15세이상 피보험자의 경우 암(유사암 제외)은 계약일이후 90일의 면책기간을 설정하고 있으며, 면책기간에 발생한 암진단(유사암 제외)은 보험금을 지급하지 않습니다.",
+          "exception": "면책기간에 관계없이 암진단비는 지급됨",
+          "exception_quote": "단, 암진단비(면책없음, 감액없음) 담보를 가입하신 경우에는 90일 상관없이 계약일부터 보험금을 지급합니다."
+        },
+        {
+          "clause_summary": "보험금 지급 제한 조건",
+          "reason": "직업 또는 직무 변경 시 회사에 즉시 알리지 않으면 보험금 지급이 제한됨",
+          "severity": "중간",
+          "source_quote": "직업 또는 직무를 변경(자가용운전자가 영업용운전자로 직업 또는 직무 변경 포함)하게 된 경우에는 즉시 회사에 알려야 합니다. 그러지 않을 경우 보험사고가 발생한 경우 보험금 지급이 제한될 수 있습니다.",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 3,
+      "article_title": "3쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "암 진단비 지급하지 않는 조건",
+          "reason": "보험계약일로부터 90일 이내에 암으로 진단받은 경우 보험금을 지급하지 않음",
+          "severity": "높음",
+          "source_quote": "▶ 보험계약일로부터 90일 이내에 암으로 진단받은 경우에는 보험금을 지급하지 않습니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "암 진단일에 따른 지급 삭감 조건",
+          "reason": "90일이 지난 후에도 암 진단일이 보험계약일로부터 일정기간 이내인 경우 보험금이 삭감될 수 있음",
+          "severity": "중간",
+          "source_quote": "▶ 90일이 지난 후에도 암 진단일이 보험계약일로부터 일정기간(예:180일,1년, 2년 등) 이내인 경우 보험금이 삭감될 수 있습니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "보험료 감액 시 해약환급률 저하",
+          "reason": "보험료를 감액하더라도 사업비는 줄지 않아 해약환급률이 낮아질 수 있음",
+          "severity": "중간",
+          "source_quote": "보험료를 감액하더라도 사업비*는 보험료가 감액된 비율만큼 줄지 않아**, 최초 가입 시 안내받은 만기(해약)환급률보다 크게 낮아질 수 있습니다.",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 4,
+      "article_title": "4쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "보험금 감액 지급에 관한 사항",
+          "reason": "보장 개시 후 일정기간 보험금을 감액하여 지급함",
+          "severity": "중간",
+          "source_quote": "이 상품에는 보장 개시 후 일정기간 보험금을 감액하여 지급하는 담보가 있습니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "대기(면책) 기간에 대한 사항",
+          "reason": "가입 후 일정기간 보험금을 지급하지 않음",
+          "severity": "중간",
+          "source_quote": "이 상품에는 가입 후 일정기간 보험금을 지급하지 않는 담보가 있습니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "보험금 지급 한도가 설정된 담보에 관한 사항",
+          "reason": "보험금 지급 횟수가 제한됨",
+          "severity": "중간",
+          "source_quote": "이 상품에는 보험금 지급 횟수가 제한된 소멸성 담보가 있습니다.",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 5,
+      "article_title": "5쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "책임개시 암보장의 경우, 계약일로부터 90일이 지난 날의 다음날부터 회사의 보장이 개시됨",
+          "reason": "계약일로부터 90일이 지나야 보장이 시작됨",
+          "severity": "중간",
+          "source_quote": "책임개시 암보장의 경우, 계약일로부터 90일이 지난 날의 다음날부터 회사의 보장이 개시됨(일부담보에 한함)",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 11,
+      "article_title": "11쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "보험금을 지급하지 않는 사항에 대한 일반 조항",
+          "reason": "보험금 지급을 제한하는 조항이 명시되어 있음",
+          "severity": "높음",
+          "source_quote": "①보통약관(보험금을 지급하지 않는 사항) 제1항에 따른 사항",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "독감 항바이러스제 치료비 지급 조건",
+          "reason": "보장개시일 이후 10일이 지나야 보장이 시작됨",
+          "severity": "중간",
+          "source_quote": "보험계약일로부터 그날을 포함하여 10일이 지난 날의 다음날",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 12,
+      "article_title": "12쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "계약일로부터 1년미만 발생시 가입금액의 50%지급",
+          "reason": "계약일로부터 1년 미만에 발생한 경우 보장금액이 절반으로 줄어듦",
+          "severity": "중간",
+          "source_quote": "선택 ※ 연간 1회, 계약일로부터 1년미만 발생시 가입금액의 50%지급",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "유사암진단비 지급 조건",
+          "reason": "유사암으로 진단확정시 지급되지만 특정 유사암만 포함됨",
+          "severity": "중간",
+          "source_quote": "유사암 : 갑상선암, 기타피부암, 제자리암, 경계성종양",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 13,
+      "article_title": "13쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "갑상선암/기타피부암의 경우 가입금액의 20% 지급",
+          "reason": "보장금액이 일반 암에 비해 낮아 계약자에게 불리함",
+          "severity": "중간",
+          "source_quote": "※ 갑상선암/기타피부암의경우 가입금액의 20%지급",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "계약일로부터 1년 미만 발생 시 가입금액의 50% 지급",
+          "reason": "보험금 지급이 제한되어 계약자에게 불리함",
+          "severity": "중간",
+          "source_quote": "계약일로부터 1년미만 발생시 가입금액의 50%지급",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 14,
+      "article_title": "14쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "계약일로부터 1년미만 발생 시 가입금액의 50% 지급",
+          "reason": "보험금 지급이 제한되며, 초기 발생 시 지급액이 줄어듦",
+          "severity": "중간",
+          "source_quote": "※ 최초 1회, 계약일로부터 1년미만 발생시 가입금액의 50%지급",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 15,
+      "article_title": "15쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "유사암 제외로 인한 보장 제한",
+          "reason": "유사암으로 진단받은 경우 보장이 되지 않음",
+          "severity": "높음",
+          "source_quote": "보험기간 중 유사암으로 진단확정되고 직접적인 치료를 목적으로 암 주요치료Ⅲ(암수술, 항암방사선치료, 항암약물치료(호르몬치료제외), 항암호르몬약물치료, 암중환자실치료)를 받은 경우 치료구분별로 금액 지급",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "보장개시일 이후 진단 조건",
+          "reason": "보장개시일 이후에 진단받아야만 보장이 이루어짐",
+          "severity": "중간",
+          "source_quote": "보험기간 중 보장개시일 이후 암(유사암제외)으로 진단확정되고 직접적인 치료를 목적으로 암 주요치료Ⅲ(암수술)를 받은 경우 금액 지급",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 16,
+      "article_title": "16쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "비급여 항암약물치료비는 전액 본인 부담",
+          "reason": "계약자가 모든 비용을 부담해야 하므로 재정적 부담이 큼",
+          "severity": "높음",
+          "source_quote": "비급여 항암약물치료비(전액본인부담포함,연간1회한,진단후10년)(감액없음)(건강고지형)",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 17,
+      "article_title": "17쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "보험금을 지급하지 않는 사항에 대한 면책 조항",
+          "reason": "보험금 지급을 제한하는 조항으로 계약자에게 불리함",
+          "severity": "높음",
+          "source_quote": "①보통약관(보험금을 지급하지 않는 사항) 제1항, 제2항에 따른 사항",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "위생관리, 미모를 위한 성형수술에 대한 면책 조항",
+          "reason": "미용 목적의 수술에 대해 보험금 지급을 하지 않음으로써 계약자에게 불리함",
+          "severity": "높음",
+          "source_quote": "②위생관리, 미모를 위한 성형수술(단, 사고전 상태로의 회복을 위한 수술은 포함)",
+          "exception": "사고전 상태로의 회복을 위한 수술은 예외적으로 보상함",
+          "exception_quote": "단, 사고전 상태로의 회복을 위한 수술은 포함"
+        },
+        {
+          "clause_summary": "선천적 기형 및 이에 근거한 병상에 대한 면책 조항",
+          "reason": "선천적 기형에 대해 보험금 지급을 하지 않음으로써 계약자에게 불리함",
+          "severity": "높음",
+          "source_quote": "③선천적 기형 및 이에 근거한 병상",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "비급여 대상으로 신체의 필수 기능개선 목적이 아닌 외모개선 목적의 치료에 대한 면책 조항",
+          "reason": "외모개선 목적의 치료에 대해 보험금 지급을 하지 않음으로써 계약자에게 불리함",
+          "severity": "높음",
+          "source_quote": "④국민건강보험 비급여 대상으로 신체의 필수 기능개선 목적이 아닌 외모개선 목적의 치료를 위한 수술(㉮쌍꺼풀수술(이중검수술), 코성형수술(융비술), 유방확대·축소술, 지방흡입술, 주름살제거술 등 ㉯사시교정, 안와격리증(양쪽 눈을 감싸고 있는 뼈와 뼈 사이의 거리가 넓은 증상)의 교정 등 시각계 수술로서 시력개선 목적이 아닌 외모개선 목적의 수술 ㉰안경, 콘텍트렌즈 등을 대체하기 위한 시력교정술(국민건강보험 요양급여 대상 수술방법 또는 치료재료가 사용되지 않은 부분은 시력교정술로 봅니다) ㉱외모개선 목적의 다리정맥류 수술)",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 18,
+      "article_title": "18쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "해약환급금은 보험료 납입기간 중 해지 시 0원",
+          "reason": "계약자가 해지 시 환급금을 받을 수 없음",
+          "severity": "높음",
+          "source_quote": "본 상품은 보험료 납입기간중에 해지시 해약환급금은 0원",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "만기 시 지급되는 금액이 없음",
+          "reason": "계약자가 만기 시 환급금을 받을 수 없음",
+          "severity": "높음",
+          "source_quote": "본 상품은 순수보장성으로 만기시 지급되는 금액이 없습니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "보험료 납입면제 조건이 제한적임",
+          "reason": "특정 질병에 한정되어 보험료 납입이 면제됨",
+          "severity": "중간",
+          "source_quote": "다음 중 어느하나의 사유가 발생한 경우에는 차회 이후의 보험료를 납입을 면제해 드립니다.",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 21,
+      "article_title": "21쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "계약자가 중요한 사항을 사실과 다르게 알린 경우 계약 해지 및 보장 제한 가능",
+          "reason": "계약자가 고의 또는 중대한 과실로 사실과 다르게 알린 경우 보험사가 일방적으로 계약을 해지하거나 보장을 제한할 수 있음",
+          "severity": "높음",
+          "source_quote": "만일, 고의 또는 중대한 과실로 중요한 사항에 대하여 사실과 다르게 알린 경우, 계약전 보험사는 보험 계약자 또는 피보험자의 의사와 관계 없이 계약을 해지하거나 보장을 제한할 수 있습니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "직업 변경 시 보험사고 발생 시 보험금 지급 제한",
+          "reason": "계약자가 직업 또는 직무를 변경하고 이를 회사에 알리지 않을 경우 보험사고 발생 시 보험금 지급이 제한됨",
+          "severity": "중간",
+          "source_quote": "그렇지 않을 경우 보험사고가 발생한 경우에는 보험계약 해지 및 보험금 지급이 제한될 수 있습니다.",
+          "exception": "변경된 직업 또는 직무와 관계없이 발생한 보험금 지급사유에 관해서는 그러하지 아니함",
+          "exception_quote": "다만, 변경된 직업 또는 직무와 관계없이 발생한 보험금 지급사유에 관해서는 그러하지 아니합니다."
+        },
+        {
+          "clause_summary": "보험계약 중도 해지 시 해약환급금 차감",
+          "reason": "중도 해지 시 해약환급금이 납입보험료보다 적거나 없을 수 있음",
+          "severity": "중간",
+          "source_quote": "해약환급금은 납입한 보험료에서 이미 지나간 기간의 위험보험료, 계약체결 및 관리비용, 계약해지 해약공제금액 등을 차감하므로 납입보험료보다 적거나 없을 수도 있습니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "보험계약 부활 시 보장 제한 가능",
+          "reason": "보험계약이 해지된 후 부활 시 회사가 보장(보상)의 일부를 제한할 수 있음",
+          "severity": "중간",
+          "source_quote": "합리적인 사유가 있는 경우 부활(효력회복)을 거절하거나 보장(보상)의 일부를 제한할 수 있습니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "갱신형특약 보험료 인상 가능성",
+          "reason": "갱신 시 보험료가 인상될 수 있어 계약자에게 불리함",
+          "severity": "중간",
+          "source_quote": "갱신시마다 보험나이 증가, 적용기초율 변경에 따라 갱신시 보험료가 인상될 수 있습니다.",
+          "exception": null,
+          "exception_quote": null
+        }
+      ]
+    },
+    {
+      "article_number": 22,
+      "article_title": "22쪽",
+      "toxic_clauses": [
+        {
+          "clause_summary": "해약환급금이 기납입보험료보다 적거나 없을 수 있음",
+          "reason": "중도 해지 시 해약환급금이 기납입보험료보다 적거나 없을 수 있어 계약자에게 불리함",
+          "severity": "높음",
+          "source_quote": "중도 해지(만기)시 해약환급금이 기납입보헙료보다 큰 경우 동 차액에 대하여 이자소득세가 부과 될 수 있으며, 금리인하/중도인출/계약체결 및 관리비용/해약공제금액 등 차감으로 실제 지급되는 금액이 납입보험료보다 적거나 없을 수도 있습니다.",
+          "exception": null,
+          "exception_quote": null
+        },
+        {
+          "clause_summary": "갱신형 보장 가입 시 보험료 변동",
+          "reason": "갱신형 보장 가입 시 보험료가 증가하면 추가납입이 필요하여 계약자에게 불리함",
+          "severity": "중간",
+          "source_quote": "갱신시점에서 갱신보험료가 증가하면 그 즉시 영업보험료가 변동되어 증가분만큼 추가납입 하셔야 하며, 갱신담보의 보험료는 만기시까지 계속 납입하셔야 계약이 정상 유지됩니다.",
+          "exception": "갱신형 보장 미가입 시 보험료 변동 없음",
+          "exception_quote": "(단, 갱신형 보장 미가입시는 변동 없음)"
+        }
+      ]
+    }
+  ]
+}
